@@ -109,7 +109,17 @@ users[2]{id,name,role,extra}:
 ## 🔗 Recursos
 
 - [Documentación TOON](https://github.com/toon-format/toon)
-- [Herramienta JSON ⇄ TOON](/tools) - Prueba la conversión en tu navegador
+- [Herramienta JSON ⇄ TOON Converter](/tools/json-toon-converter) - Prueba la conversión en tu navegador
+
+---
+
+## 🛠️ Prueba la Conversión
+
+¿Quieres probar cómo funciona la conversión con campos opcionales? Usa nuestra herramienta interactiva:
+
+**[🔗 Ir a JSON ⇄ TOON Converter](/tools/json-toon-converter)**
+
+Puedes pegar tus JSON con campos opcionales y ver cómo se convierten a formato TOON en tiempo real.
 
 ---
 

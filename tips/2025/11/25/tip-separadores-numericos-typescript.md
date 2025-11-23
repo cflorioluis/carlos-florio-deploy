@@ -1,5 +1,9 @@
 # 💡 Tip del Día: Separadores Numéricos en TypeScript
 
+_En colaboración con [Dionis](mailto:david.dionis@fourvenues.com)_
+
+---
+
 ## ¿Sabías que puedes hacer tus números más legibles?
 
 En TypeScript (y JavaScript desde ES2021), puedes usar el guion bajo (`_`) como separador visual en números para mejorar su legibilidad. ¡Es completamente ignorado por el motor de JavaScript!
@@ -122,4 +126,8 @@ const valor2 = 1_234_567_890;
 ---
 
 **¿Te gustó este tip?** ¡Compártelo con tu equipo y mejora la legibilidad de tu código! 🚀
+
+**En colaboración con**: [Dionis](mailto:david.dionis@fourvenues.com)
+
+**Fecha de publicación**: 25 de noviembre de 2025
 
