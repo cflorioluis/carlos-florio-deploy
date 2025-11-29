@@ -61,7 +61,13 @@ Aquí tienes una configuración completa y optimizada para proyectos Angular con
       },
       "suspicious": {
         "noExplicitAny": "warn",
-        "noArrayIndexKey": "warn"
+        "noArrayIndexKey": "warn",
+        "noConsole": {
+          "level": "error",
+          "options": {
+            "allow": ["error", "warn"]
+          }
+        }
       },
       "correctness": {
         "noUnusedVariables": "error",
@@ -206,6 +212,169 @@ console.log('Hello');
 const usedVariable = 'test';
 console.log(usedVariable);
 ```
+
+#### `suspicious.noConsole` **— Control de console.log**
+
+Biome puede marcar el uso de `console.log` y otros métodos de `console` como errores o advertencias. Esto es una buena práctica para evitar que los mensajes de depuración lleguen a producción.
+
+**Configuración en `biome.json`:**
+
+```json
+{
+  "linter": {
+    "rules": {
+      "suspicious": {
+        "noConsole": "error"
+      }
+    }
+  }
+}
+```
+
+**Permitir ciertos métodos de console:**
+
+Si quieres permitir solo algunos métodos de `console` (como `console.error` para logging de errores), puedes configurarlo así:
+
+```json
+{
+  "linter": {
+    "rules": {
+      "suspicious": {
+        "noConsole": {
+          "level": "error",
+          "options": {
+            "allow": ["error", "warn", "info"]
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+Con esta configuración:
+- ✅ `console.error()` - Permitido
+- ✅ `console.warn()` - Permitido
+- ✅ `console.info()` - Permitido
+- ❌ `console.log()` - Marcado como error
+- ❌ `console.debug()` - Marcado como error
+
+**Ejemplo de uso:**
+
+```typescript
+// ❌ Error: noConsole
+console.log('Debug message');
+
+// ✅ Permitido (si está en la lista de allow)
+console.error('Error occurred:', error);
+console.warn('Warning: deprecated feature');
+```
+
+---
+
+## 🚫 Excepciones de Código (Ignorar Reglas)
+
+Similar a ESLint, Biome permite ignorar reglas específicas usando comentarios especiales. Esto es útil cuando necesitas hacer una excepción justificada.
+
+### Ignorar una Línea Específica
+
+```typescript
+// biome-ignore lint/suspicious/noConsole: necesario para debugging en desarrollo
+console.log('Debug info:', data);
+```
+
+**Formato del comentario:**
+```
+// biome-ignore lint/<categoría>/<regla>: <explicación>
+```
+
+### Ignorar un Bloque de Código
+
+```typescript
+/* biome-ignore lint/suspicious/noConsole: múltiples logs temporales para debugging */
+console.log('Step 1');
+console.log('Step 2');
+console.log('Step 3');
+```
+
+### Ignorar Múltiples Reglas
+
+```typescript
+// biome-ignore lint/suspicious/noConsole lint/correctness/noUnusedVariables: código temporal de debugging
+console.log(unusedVar);
+```
+
+### Ejemplos Comunes de Excepciones
+
+#### 1. Console.log en Desarrollo
+
+```typescript
+// biome-ignore lint/suspicious/noConsole: solo para desarrollo local
+console.log('User data:', userData);
+```
+
+#### 2. Variables No Usadas Temporalmente
+
+```typescript
+// biome-ignore lint/correctness/noUnusedVariables: se usará en la próxima iteración
+const futureFeature = 'coming soon';
+```
+
+#### 3. Any Explícito (cuando es necesario)
+
+```typescript
+// biome-ignore lint/suspicious/noExplicitAny: tipo dinámico de API externa
+function handleApiResponse(data: any) {
+  return data;
+}
+```
+
+#### 4. Ignorar Formateo en una Línea
+
+```typescript
+// biome-ignore format: línea muy larga intencionalmente para documentación
+const longUrl = 'https://example.com/very/long/url/that/should/not/be/broken/into/multiple/lines';
+```
+
+### Comparación con ESLint
+
+Si vienes de ESLint, aquí está la equivalencia:
+
+| ESLint | Biome |
+|--------|-------|
+| `// eslint-disable-next-line` | `// biome-ignore lint/<regla>` |
+| `/* eslint-disable */` | `/* biome-ignore lint/<regla> */` |
+| `// eslint-disable-line` | `// biome-ignore lint/<regla>` |
+
+**Ejemplo de migración:**
+
+```typescript
+// Antes (ESLint)
+// eslint-disable-next-line no-console
+console.log('Debug');
+
+// Después (Biome)
+// biome-ignore lint/suspicious/noConsole: debugging temporal
+console.log('Debug');
+```
+
+### Mejores Prácticas para Excepciones
+
+1. **Siempre incluye una explicación**: Documenta por qué necesitas ignorar la regla
+2. **Usa excepciones con moderación**: Si necesitas muchas excepciones, reconsidera tu código
+3. **Revisa periódicamente**: Las excepciones temporales deben eliminarse cuando ya no sean necesarias
+4. **Sé específico**: Ignora solo la regla necesaria, no todas las reglas
+
+```typescript
+// ❌ Mal - demasiado amplio
+// biome-ignore lint: código temporal
+
+// ✅ Bien - específico y documentado
+// biome-ignore lint/suspicious/noConsole: necesario para debugging en producción temporal
+console.log('Error details:', error);
+```
+
+---
 
 ### `javascript.formatter` - Formateo de JavaScript/TypeScript
 
