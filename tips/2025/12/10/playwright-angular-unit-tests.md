@@ -147,7 +147,16 @@ test('flujo completo de login', async ({ mount }) => {
 
 ## 🆚 Comparación: TestBed vs Playwright
 
-| Característica | Angular TestBed | Playwright CT |\n|----------------|-----------------|---------------|\n| **Velocidad** | Lento | Rápido |\n| **Navegadores** | jsdom (simulado) | Reales (Chromium, Firefox, WebKit) |\n| **Aislamiento** | Requiere configuración | Automático |\n| **Debugging** | Básico | Trace Viewer, videos, screenshots |\n| **Curva de aprendizaje** | Alta | Media |\n| **Madurez** | Estable | Experimental |\n\n---
+| Característica &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Angular TestBed&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playwright CT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :---: | :---: |
+| **Velocidad** | Lento | Rápido |
+| **Navegadores** | jsdom (simulado) | Reales (Chromium, Firefox, WebKit) |
+| **Aislamiento** | Requiere configuración | Automático |
+| **Debugging** | Básico | Trace Viewer, videos, screenshots |
+| **Curva de aprendizaje** | Alta | Media |
+| **Madurez** | Estable | Experimental |
+
+---
 
 ## ⚠️ Consideraciones
 
