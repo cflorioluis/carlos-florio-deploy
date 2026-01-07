@@ -1,0 +1,58 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradRobot" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#312e81;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7e22ce;stop-opacity:1" />
+    </linearGradient>
+    
+    <style>
+      .font-icon {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+    </style>
+  </defs>
+
+  <!-- Group shifted down by 15px to Center Vertically -->
+  <!-- Previous Y range: 5 to 165 (Height 160). Top margin 5, Bottom 35. -->
+  <!-- New Y range: 20 to 180. Top margin 20, Bottom 20. Perfect center. -->
+  <g transform="translate(0, 15)">
+  
+    <!-- Side "Ears" / Knobs -->
+    <rect x="10" y="90" width="20" height="40" rx="5" fill="url(#gradRobot)" />
+    <rect x="170" y="90" width="20" height="40" rx="5" fill="url(#gradRobot)" />
+    
+    <!-- NEW THICKER ANTENNAS -->
+    <!-- Increased stroke-width to 12 (was 6) -->
+    <!-- Increased circle radius to 9 (was 5) -->
+    
+    <!-- Left Ear -->
+    <line x1="100" y1="35" x2="60" y2="5" stroke="url(#gradRobot)" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="60" cy="5" r="9" fill="url(#gradRobot)"/>
+    
+    <!-- Right Ear -->
+    <line x1="100" y1="35" x2="140" y2="5" stroke="url(#gradRobot)" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="140" cy="5" r="9" fill="url(#gradRobot)"/>
+
+    <!-- Main Head Case (Outer Monitor) -->
+    <rect x="25" y="35" width="150" height="130" rx="20" fill="white" stroke="url(#gradRobot)" stroke-width="6" />
+    
+    <!-- Inner Screen (The Face) -->
+    <rect x="40" y="50" width="120" height="100" rx="10" fill="url(#gradRobot)" opacity="0.1" /> 
+    
+    <!-- Eyes: Symbols -->
+    <text x="70" y="90" class="font-icon" font-size="60" fill="#312e81">A</text>
+    <text x="130" y="90" class="font-icon" font-size="60" fill="#a855f7">文</text>
+
+    <!-- Digital Mouth equalizer style -->
+    <rect x="65" y="130" width="10" height="6" rx="2" fill="url(#gradRobot)" />
+    <rect x="80" y="125" width="10" height="16" rx="2" fill="url(#gradRobot)" />
+    <rect x="95" y="130" width="10" height="6" rx="2" fill="url(#gradRobot)" />
+    <rect x="110" y="125" width="10" height="16" rx="2" fill="url(#gradRobot)" />
+    <rect x="125" y="130" width="10" height="6" rx="2" fill="url(#gradRobot)" />
+  
+  </g>
+
+</svg>
