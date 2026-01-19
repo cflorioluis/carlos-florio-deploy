@@ -29,9 +29,9 @@ La propiedad `-webkit-box-reflect` acepta tres parámetros principales:
 
 ## Ejemplo Práctico
 
-Imagina que tienes una foto de un producto premium (como esta zapatilla) y quieres darle ese toque de "estudio fotográfico".
+Imagina que tienes una imagen de Charmeleon y quieres darle ese efecto de reflexión profesional.
 
-![Producto original sin reflexión](/tips/2026/01/19/product-example.png)
+![Charmeleon original sin reflexión](/tips/2026/01/19/charmeleon.png)
 
 ## Aplicando el Efecto
 
