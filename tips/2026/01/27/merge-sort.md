@@ -9,9 +9,11 @@ Al igual que Quick Sort, utiliza **Divide y Vencerás**:
 1. **Dividir**: Divide el arreglo por la mitad repetidamente hasta tener arreglos de un solo elemento.
 2. **Conquistar**: Mezcla (merge) los arreglos ordenando los elementos mientras los une.
 
-## Complejidad
+## Complejidad Asintótica (Big O)
 
-| Caso | Complejidad $O(n)$ |
+El **Merge Sort** garantiza un rendimiento estable sin importar el orden inicial de los datos. Puedes profundizar en la teoría de la eficiencia en nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
+
+| Caso | Complejidad |
 | :--- | :--- |
 | **Peor caso** | $O(n \log n)$ |
 | **Caso promedio** | $O(n \log n)$ |
@@ -48,3 +50,9 @@ function merge(left: number[], right: number[]): number[] {
   return result.concat(left.slice(i)).concat(right.slice(j));
 }
 ```
+
+## 🎮 Demo Interactivo
+
+¡Visualiza el algoritmo en acción! Puedes controlar la ejecución paso a paso, escuchar el proceso y experimentar con el código.
+
+[Ver Merge Sort en Acción](/tips/2026/01/27/merge-sort/demo)

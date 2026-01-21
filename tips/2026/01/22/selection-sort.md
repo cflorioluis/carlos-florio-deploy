@@ -12,9 +12,11 @@ El algoritmo divide la lista en dos partes: la parte de elementos ya ordenados (
 
 Repite este proceso hasta que toda la lista esté en la sección ordenada.
 
-## Complejidad
+## Complejidad Asintótica (Big O)
 
-| Caso | Complejidad $O(n)$ |
+El **Selection Sort** es un algoritmo con una eficiencia limitada para grandes volúmenes de datos. Para entender mejor qué significan estos términos, te recomendamos leer nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
+
+| Caso | Complejidad |
 | :--- | :--- |
 | **Peor caso** | $O(n^2)$ |
 | **Caso promedio** | $O(n^2)$ |
@@ -46,3 +48,9 @@ function selectionSort(arr: number[]): number[] {
   return arr;
 }
 ```
+
+## 🎮 Demo Interactivo
+
+¡Visualiza el algoritmo en acción! Puedes controlar la ejecución paso a paso, escuchar el proceso y experimentar con el código.
+
+[Ver Selection Sort en Acción](/tips/2026/01/22/selection-sort/demo)

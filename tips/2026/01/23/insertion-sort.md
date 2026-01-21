@@ -10,9 +10,11 @@ El algoritmo construye el arreglo final ordenado un elemento a la vez.
 2. Lo compara con los elementos que ya están ordenados a su izquierda.
 3. Lo inserta en la posición correcta, desplazando los elementos mayores hacia la derecha.
 
-## Complejidad
+## Complejidad Asintótica (Big O)
 
-| Caso | Complejidad $O(n)$ |
+El **Insertion Sort** es muy eficiente para conjuntos pequeños o casi ordenados, pero su rendimiento cae con datos grandes. Para más detalles sobre las escalas de eficiencia, consulta nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
+
+| Caso | Complejidad |
 | :--- | :--- |
 | **Peor caso** | $O(n^2)$ |
 | **Caso promedio** | $O(n^2)$ |
@@ -39,3 +41,9 @@ function insertionSort(arr: number[]): number[] {
 
 > [!TIP]
 > Es un algoritmo **estable** (no cambia el orden relativo de elementos iguales) y **in-place** (requiere una cantidad constante de memoria extra).
+
+## 🎮 Demo Interactivo
+
+¡Visualiza el algoritmo en acción! Puedes controlar la ejecución paso a paso, escuchar el proceso y experimentar con el código.
+
+[Ver Insertion Sort en Acción](/tips/2026/01/23/insertion-sort/demo)

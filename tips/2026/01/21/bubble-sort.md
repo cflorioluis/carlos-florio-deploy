@@ -8,9 +8,11 @@ Funciona revisando cada elemento de la lista que va a ser ordenada con el siguie
 
 Recibe su nombre porque los elementos más grandes "burbujean" hacia el final de la lista en cada iteración.
 
-## Complejidad
+## Complejidad Asintótica (Big O)
 
-| Caso | Complejidad $O(n)$ |
+El **Bubble Sort** es un algoritmo con una eficiencia limitada para grandes volúmenes de datos. Para entender mejor qué significan estos términos, te recomendamos leer nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
+
+| Caso | Complejidad |
 | :--- | :--- |
 | **Peor caso** | $O(n^2)$ |
 | **Caso promedio** | $O(n^2)$ |
@@ -38,5 +40,10 @@ function bubbleSort(arr: number[]): number[] {
 }
 ```
 
-> [!TIP]
-> Aunque no es eficiente para grandes conjuntos de datos, es excelente para propósitos educativos y para listas muy pequeñas que están "casi" ordenadas.
+> Aunque no es eficiente para grandes conjuntos de datos ($O(n^2)$), es excelente para propósitos educativos y para listas muy pequeñas que están "casi" ordenadas.
+
+## 🎮 Demo Interactivo
+
+¡Visualiza el algoritmo en acción! Puedes controlar la ejecución paso a paso, escuchar el proceso y experimentar con el código.
+
+[Ver Bubble Sort en Acción](/tips/2026/01/21/bubble-sort/demo)

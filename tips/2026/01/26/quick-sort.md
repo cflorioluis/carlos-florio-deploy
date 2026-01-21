@@ -10,9 +10,11 @@ Utiliza la estrategia de **Divide y Vencerás**:
 2. **Partición**: Los elementos menores que el pivot van a la izquierda, y los mayores a la derecha.
 3. **Recursión**: Se aplica el mismo proceso a las sub-listas de la izquierda y la derecha.
 
-## Complejidad
+## Complejidad Asintótica (Big O)
 
-| Caso | Complejidad $O(n)$ |
+El **Quick Sort** es famoso por su excepcional rendimiento promedio. Para entender cómo se compara con otros algoritmos, revisa nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
+
+| Caso | Complejidad |
 | :--- | :--- |
 | **Peor caso** | $O(n^2)$ (ej. lista ya ordenada con mal pivot) |
 | **Caso promedio** | $O(n \log n)$ |
@@ -40,5 +42,10 @@ function quickSort(arr: number[]): number[] {
 }
 ```
 
-> [!IMPORTANT]
 > La elección del pivot es crucial para evitar el peor caso de $O(n^2)$. Técnicas como "Mediana de Tres" ayudan a mantener el rendimiento en $O(n \log n)$.
+
+## 🎮 Demo Interactivo
+
+¡Visualiza el algoritmo en acción! Puedes controlar la ejecución paso a paso, escuchar el proceso y experimentar con el código.
+
+[Ver Quick Sort en Acción](/tips/2026/01/26/quick-sort/demo)
