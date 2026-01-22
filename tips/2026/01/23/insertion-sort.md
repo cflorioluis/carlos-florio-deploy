@@ -14,11 +14,9 @@ El algoritmo construye el arreglo final ordenado un elemento a la vez.
 
 El **Insertion Sort** es muy eficiente para conjuntos pequeños o casi ordenados, pero su rendimiento cae con datos grandes. Para más detalles sobre las escalas de eficiencia, consulta nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
 
-| Caso | Complejidad |
-| :--- | :--- |
-| **Peor caso** | $O(n^2)$ |
-| **Caso promedio** | $O(n^2)$ |
-| **Mejor caso** | $O(n)$ (si ya está ordenado) |
+1. **Peor caso: $O(n^2)$**
+2. **Caso promedio: $O(n^2)$**
+3. **Mejor caso: $O(n)$** (si ya está ordenado)
 
 ## Ejemplo en TypeScript
 

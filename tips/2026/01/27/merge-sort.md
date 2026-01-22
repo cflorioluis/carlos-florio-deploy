@@ -1,6 +1,6 @@
 # Merge Sort: Ordenamiento por Mezcla 🧩
 
-El **Merge Sort** es un algoritmo de ordenamiento estable que garantiza un rendimiento consistente de $O(n \log n)$.
+El **Merge Sort** es un algoritmo de ordenamiento estable que garantiza un rendimiento consistente de **$O(n \log n)$**.
 
 ## ¿En qué consiste?
 
@@ -13,14 +13,12 @@ Al igual que Quick Sort, utiliza **Divide y Vencerás**:
 
 El **Merge Sort** garantiza un rendimiento estable sin importar el orden inicial de los datos. Puedes profundizar en la teoría de la eficiencia en nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
 
-| Caso | Complejidad |
-| :--- | :--- |
-| **Peor caso** | $O(n \log n)$ |
-| **Caso promedio** | $O(n \log n)$ |
-| **Mejor caso** | $O(n \log n)$ |
+1. **Peor caso: $O(n \log n)$**
+2. **Caso promedio: $O(n \log n)$**
+3. **Mejor caso: $O(n \log n)$**
 
 > [!NOTE]
-> A diferencia de Selection, Insertion o Bubble sort, Merge Sort requiere $O(n)$ de espacio adicional para realizar la mezcla.
+> A diferencia de Selection, Insertion o Bubble sort, Merge Sort requiere **$O(n)$** de espacio adicional para realizar la mezcla.
 
 ## Ejemplo en TypeScript
 

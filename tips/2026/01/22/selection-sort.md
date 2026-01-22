@@ -16,11 +16,9 @@ Repite este proceso hasta que toda la lista esté en la sección ordenada.
 
 El **Selection Sort** es un algoritmo con una eficiencia limitada para grandes volúmenes de datos. Para entender mejor qué significan estos términos, te recomendamos leer nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
 
-| Caso | Complejidad |
-| :--- | :--- |
-| **Peor caso** | $O(n^2)$ |
-| **Caso promedio** | $O(n^2)$ |
-| **Mejor caso** | $O(n^2)$ |
+1. **Peor caso: $O(n^2)$**
+2. **Caso promedio: $O(n^2)$**
+3. **Mejor caso: $O(n^2)$**
 
 > [!NOTE]
 > A diferencia de otros algoritmos, el Selection Sort siempre realiza el mismo número de comparaciones, sin importar si la lista está ordenada o no.

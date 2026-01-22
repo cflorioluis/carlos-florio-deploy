@@ -4,7 +4,7 @@ El **Bubble Sort** es uno de los algoritmos de ordenamiento más simples y es id
 
 ## ¿En qué consiste?
 
-Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado ($n1 > n2$). Es necesario revisar varias veces toda la lista hasta que no se necesiten más intercambios, lo cual significa que la lista está ordenada.
+Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado. Es necesario revisar varias veces toda la lista hasta que no se necesiten más intercambios, lo cual significa que la lista está ordenada.
 
 Recibe su nombre porque los elementos más grandes "burbujean" hacia el final de la lista en cada iteración.
 
@@ -12,11 +12,9 @@ Recibe su nombre porque los elementos más grandes "burbujean" hacia el final de
 
 El **Bubble Sort** es un algoritmo con una eficiencia limitada para grandes volúmenes de datos. Para entender mejor qué significan estos términos, te recomendamos leer nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
 
-| Caso | Complejidad |
-| :--- | :--- |
-| **Peor caso** | $O(n^2)$ |
-| **Caso promedio** | $O(n^2)$ |
-| **Mejor caso** | $O(n)$ (si la lista ya está ordenada) |
+1. **Peor caso: $O(n^2)$**
+2. **Caso promedio: $O(n^2)$**
+3. **Mejor caso: $O(n)$** (si la lista ya está ordenada)
 
 ## Ejemplo en TypeScript
 

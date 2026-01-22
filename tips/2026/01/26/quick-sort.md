@@ -14,11 +14,9 @@ Utiliza la estrategia de **Divide y Vencerás**:
 
 El **Quick Sort** es famoso por su excepcional rendimiento promedio. Para entender cómo se compara con otros algoritmos, revisa nuestra [Guía Rápida de Notación Big O](/tips/2026/01/20/big-o-notation).
 
-| Caso | Complejidad |
-| :--- | :--- |
-| **Peor caso** | $O(n^2)$ (ej. lista ya ordenada con mal pivot) |
-| **Caso promedio** | $O(n \log n)$ |
-| **Mejor caso** | $O(n \log n)$ |
+1. **Peor caso: $O(n^2)$** (ej. lista ya ordenada con mal pivot)
+2. **Caso promedio: $O(n \log n)$**
+3. **Mejor caso: $O(n \log n)$**
 
 ## Ejemplo en TypeScript
 
@@ -42,7 +40,7 @@ function quickSort(arr: number[]): number[] {
 }
 ```
 
-> La elección del pivot es crucial para evitar el peor caso de $O(n^2)$. Técnicas como "Mediana de Tres" ayudan a mantener el rendimiento en $O(n \log n)$.
+> La elección del pivot es crucial para evitar el peor caso de **$O(n^2)$**. Técnicas como "Mediana de Tres" ayudan a mantener el rendimiento en **$O(n \log n)$**.
 
 ## 🎮 Demo Interactivo
 
