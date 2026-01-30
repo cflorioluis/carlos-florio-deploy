@@ -1,4 +1,4 @@
-# 💡 Tip del Día: Comentarios "Serverless" con Giscus 💬
+# 💡 Comentarios "Serverless" con Giscus 💬
 
 ¿Tienes un blog estático o un portafolio personal y echas de menos los comentarios? 🤔
 
