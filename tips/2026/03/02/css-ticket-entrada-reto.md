@@ -1,6 +1,6 @@
 # 🎫 Tip: Elementos con curvas y borde que se adapta al path
 
-Cuando un ticket (o cualquier bloque) tiene **formas con curvas** (muescas, recortes), el `outline` o `border` estándar de CSS **no sigue** esas curvas: dibuja el rectángulo del contenedor. En la [demo en vivo](/tips/2026/3/2/css-ticket-entrada-reto/demo) se comparan dos enfoques: **ejemplo 1** (CSS mask, outline que no sigue las muescas) y **ejemplo 2** (clip-path SVG + borde SVG que sí sigue el path). Haz clic en cada uno para ver la diferencia al seleccionar.
+Cuando un ticket (o cualquier bloque) tiene **formas con curvas** (muescas, recortes), el `outline` o `border` estándar de CSS **no sigue** esas curvas: dibuja el rectángulo del contenedor. En la [demo en vivo](/tips/2026/3/2/css-ticket-entrada-reto/demo) se comparan dos enfoques; desde la demo puedes **abrir el código en StackBlitz** (sandbox) para verlo y editarlo. **ejemplo 1** (CSS mask, outline que no sigue las muescas) y **ejemplo 2** (clip-path SVG + borde SVG que sí sigue el path). Haz clic en cada uno para ver la diferencia al seleccionar.
 
 ---
 
