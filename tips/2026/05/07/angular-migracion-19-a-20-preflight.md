@@ -1,0 +1,32 @@
+# Migración Angular 19→20 (1/4): pre-flight zoneless y signals
+
+Serie de migración Angular paso a paso. Consulta la guía interactiva en [update.angular.io](https://update.angular.io/?v=19.0-20.0).
+
+---
+
+## Objetivo del día
+
+Inventaria dependencias, Node, TypeScript y pruebas antes de tocar versiones.
+
+---
+
+## Checklist rápido
+
+1. Revisa `package.json` y versiones de Node/TypeScript compatibles.
+2. Ejecuta las pruebas y el linter en una rama dedicada.
+3. Aplica `ng update` solo cuando el entorno local esté limpio.
+4. Documenta breaking changes que afecten a tu equipo.
+
+---
+
+## Comando de referencia
+
+```bash
+ng update @angular/core@<target> @angular/cli@<target>
+```
+
+---
+
+## Siguiente paso
+
+Continúa la serie al día siguiente para el siguiente bloque de la migración.
