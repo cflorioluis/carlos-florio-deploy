@@ -1,0 +1,800 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="hotel-service" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8.5 10a1.5 1.5 0 0 1 -1.5 -1.5a5.5 5.5 0 0 1 11 0v10.5a2 2 0 0 1 -2 2h-7a2 2 0 0 1 -2 -2v-2c0 -1.38 .71 -2.444 1.88 -3.175l4.424 -2.765c1.055 -.66 1.696 -1.316 1.696 -2.56a2.5 2.5 0 1 0 -5 0a1.5 1.5 0 0 1 -1.5 1.5z" />
+
+</symbol>
+<symbol id="hourglass-empty" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z" />
+
+</symbol>
+<symbol id="hourglass-high" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.5 7h11" />
+  <path stroke="currentColor" fill="none" d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z" />
+
+</symbol>
+<symbol id="hourglass-low" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.5 17h11" />
+  <path stroke="currentColor" fill="none" d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z" />
+
+</symbol>
+<symbol id="hourglass-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18 18v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1v-2a6 6 0 0 1 6 -6" />
+  <path stroke="currentColor" fill="none" d="M6 6a6 6 0 0 0 6 6m3.13 -.88a6 6 0 0 0 2.87 -5.12v-2a1 1 0 0 0 -1 -1h-10" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="hourglass" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.5 7h11" />
+  <path stroke="currentColor" fill="none" d="M6.5 17h11" />
+  <path stroke="currentColor" fill="none" d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z" />
+
+</symbol>
+<symbol id="hours-12" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
+  <path stroke="currentColor" fill="none" d="M4 13c.468 3.6 3.384 6.546 7 7" />
+  <path stroke="currentColor" fill="none" d="M18 15h2a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-1a1 1 0 0 0 -1 1v1a1 1 0 0 0 1 1h2" />
+  <path stroke="currentColor" fill="none" d="M15 21v-6" />
+
+</symbol>
+<symbol id="hours-24" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 13c.325 2.532 1.881 4.781 4 6" />
+  <path stroke="currentColor" fill="none" d="M20 11a8.1 8.1 0 0 0 -15.5 -2" />
+  <path stroke="currentColor" fill="none" d="M4 5v4h4" />
+  <path stroke="currentColor" fill="none" d="M12 15h2a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-1a1 1 0 0 0 -1 1v1a1 1 0 0 0 1 1h2" />
+  <path stroke="currentColor" fill="none" d="M18 15v2a1 1 0 0 0 1 1h1" />
+  <path stroke="currentColor" fill="none" d="M21 15v6" />
+
+</symbol>
+<symbol id="html" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 16v-8l2 5l2 -5v8" />
+  <path stroke="currentColor" fill="none" d="M1 16v-8" />
+  <path stroke="currentColor" fill="none" d="M5 8v8" />
+  <path stroke="currentColor" fill="none" d="M1 12h4" />
+  <path stroke="currentColor" fill="none" d="M7 8h4" />
+  <path stroke="currentColor" fill="none" d="M9 8v8" />
+  <path stroke="currentColor" fill="none" d="M20 8v8h3" />
+
+</symbol>
+<symbol id="http-connect-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 10a2 2 0 1 0 -4 0v4a2 2 0 1 0 4 0" />
+  <path stroke="currentColor" fill="none" d="M17 13v-5l4 8v-8" />
+  <path stroke="currentColor" fill="none" d="M14 14a2 2 0 1 1 -4 0v-4m2 -2a2 2 0 0 1 2 2" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-connect" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 10a2 2 0 1 0 -4 0v4a2 2 0 1 0 4 0" />
+  <path stroke="currentColor" fill="none" d="M17 16v-8l4 8v-8" />
+  <path stroke="currentColor" fill="none" d="M12 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2" />
+
+</symbol>
+<symbol id="http-delete-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 8v8h2a2 2 0 0 0 2 -2v-4a2 2 0 0 0 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M14 8h-2m-2 2v6h4" />
+  <path stroke="currentColor" fill="none" d="M10 12h2" />
+  <path stroke="currentColor" fill="none" d="M17 8v5m3 3h1" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-delete" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 8v8h2a2 2 0 0 0 2 -2v-4a2 2 0 0 0 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M14 8h-4v8h4" />
+  <path stroke="currentColor" fill="none" d="M10 12h2.5" />
+  <path stroke="currentColor" fill="none" d="M17 8v8h4" />
+
+</symbol>
+<symbol id="http-get-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 8h-2a2 2 0 0 0 -2 2v4a2 2 0 0 0 2 2h2v-4h-1" />
+  <path stroke="currentColor" fill="none" d="M14 8h-2m-2 2v6h4" />
+  <path stroke="currentColor" fill="none" d="M10 12h2" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v7" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-get" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 8h-2a2 2 0 0 0 -2 2v4a2 2 0 0 0 2 2h2v-4h-1" />
+  <path stroke="currentColor" fill="none" d="M14 8h-4v8h4" />
+  <path stroke="currentColor" fill="none" d="M10 12h2.5" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v8" />
+
+</symbol>
+<symbol id="http-head-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 16v-8" />
+  <path stroke="currentColor" fill="none" d="M7 8v8" />
+  <path stroke="currentColor" fill="none" d="M3 12h4" />
+  <path stroke="currentColor" fill="none" d="M14 8h-2m-2 2v6h4" />
+  <path stroke="currentColor" fill="none" d="M10 12h2" />
+  <path stroke="currentColor" fill="none" d="M17 13v-3a2 2 0 1 1 4 0v6" />
+  <path stroke="currentColor" fill="none" d="M17 13h4" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-head" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 16v-8" />
+  <path stroke="currentColor" fill="none" d="M7 8v8" />
+  <path stroke="currentColor" fill="none" d="M3 12h4" />
+  <path stroke="currentColor" fill="none" d="M14 8h-4v8h4" />
+  <path stroke="currentColor" fill="none" d="M10 12h2.5" />
+  <path stroke="currentColor" fill="none" d="M17 16v-6a2 2 0 1 1 4 0v6" />
+  <path stroke="currentColor" fill="none" d="M17 13h4" />
+
+</symbol>
+<symbol id="http-options-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M10 12h2m2 -2a2 2 0 0 0 -2 -2m-2 2v6" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v7" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-options" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M10 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v8" />
+
+</symbol>
+<symbol id="http-patch-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M10 16v-6m2 -2a2 2 0 0 1 2 2m0 4v2" />
+  <path stroke="currentColor" fill="none" d="M10 13h3" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v7" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-patch" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M10 16v-6a2 2 0 1 1 4 0v6" />
+  <path stroke="currentColor" fill="none" d="M10 13h4" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v8" />
+
+</symbol>
+<symbol id="http-post-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M12 8a2 2 0 0 1 2 2m0 4a2 2 0 1 1 -4 0v-4" />
+  <path stroke="currentColor" fill="none" d="M20 16a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-2a1 1 0 0 1 -1 -1v-2a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-post" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M12 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M17 15a1 1 0 0 0 1 1h2a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-2a1 1 0 0 1 -1 -1v-2a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1" />
+
+</symbol>
+<symbol id="http-put-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v8" />
+  <path stroke="currentColor" fill="none" d="M10 10v4a2 2 0 1 0 4 0m0 -4v-2" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-put" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M17 8h4" />
+  <path stroke="currentColor" fill="none" d="M19 8v8" />
+  <path stroke="currentColor" fill="none" d="M10 8v6a2 2 0 1 0 4 0v-6" />
+
+</symbol>
+<symbol id="http-que-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M6 15l1 1" />
+  <path stroke="currentColor" fill="none" d="M21 8h-4v8h4" />
+  <path stroke="currentColor" fill="none" d="M17 12h2.5" />
+  <path stroke="currentColor" fill="none" d="M10 10v4a2 2 0 1 0 4 0m0 -4v-2" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-que" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M6 15l1 1" />
+  <path stroke="currentColor" fill="none" d="M21 8h-4v8h4" />
+  <path stroke="currentColor" fill="none" d="M17 12h2.5" />
+  <path stroke="currentColor" fill="none" d="M10 8v6a2 2 0 1 0 4 0v-6" />
+
+</symbol>
+<symbol id="http-trace-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 8h4" />
+  <path stroke="currentColor" fill="none" d="M5 8v8" />
+  <path stroke="currentColor" fill="none" d="M10 12h2m2 -2a2 2 0 0 0 -2 -2m-2 2v6" />
+  <path stroke="currentColor" fill="none" d="M14 16l-3 -4" />
+  <path stroke="currentColor" fill="none" d="M17 13v-3a2 2 0 1 1 4 0v6" />
+  <path stroke="currentColor" fill="none" d="M17 13h4" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="http-trace" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 8h4" />
+  <path stroke="currentColor" fill="none" d="M5 8v8" />
+  <path stroke="currentColor" fill="none" d="M10 12h2a2 2 0 1 0 0 -4h-2v8" />
+  <path stroke="currentColor" fill="none" d="M14 16l-3 -4" />
+  <path stroke="currentColor" fill="none" d="M17 16v-6a2 2 0 1 1 4 0v6" />
+  <path stroke="currentColor" fill="none" d="M17 13h4" />
+
+</symbol>
+<symbol id="ice-cream-2" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M17.657 11a6 6 0 1 0 -11.315 0" />
+  <path stroke="currentColor" fill="none" d="M6.342 11l5.658 11l5.657 -11z" />
+
+</symbol>
+<symbol id="ice-cream-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 21.5v-4.5" />
+  <path stroke="currentColor" fill="none" d="M8 8v9h8v-1m0 -4v-5a4 4 0 0 0 -7.277 -2.294" />
+  <path stroke="currentColor" fill="none" d="M8 10.5l1.74 -.76m2.79 -1.222l3.47 -1.518" />
+  <path stroke="currentColor" fill="none" d="M8 14.5l4.488 -1.964" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="ice-cream" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 21.5v-4.5" />
+  <path stroke="currentColor" fill="none" d="M8 17h8v-10a4 4 0 1 0 -8 0v10z" />
+  <path stroke="currentColor" fill="none" d="M8 10.5l8 -3.5" />
+  <path stroke="currentColor" fill="none" d="M8 14.5l8 -3.5" />
+
+</symbol>
+<symbol id="ice-skating" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5.905 5h3.418a1 1 0 0 1 .928 .629l1.143 2.856a3 3 0 0 0 2.207 1.83l4.717 .926a2.084 2.084 0 0 1 1.682 2.045v.714a1 1 0 0 1 -1 1h-13.895a1 1 0 0 1 -1 -1.1l.8 -8a1 1 0 0 1 1 -.9z" />
+  <path stroke="currentColor" fill="none" d="M3 19h17a1 1 0 0 0 1 -1" />
+  <path stroke="currentColor" fill="none" d="M9 15v4" />
+  <path stroke="currentColor" fill="none" d="M15 15v4" />
+
+</symbol>
+<symbol id="icons-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4.01 4.041a3.5 3.5 0 0 0 2.49 5.959c.975 0 1.865 -.357 2.5 -1m.958 -3.044a3.503 3.503 0 0 0 -2.905 -2.912" />
+  <path stroke="currentColor" fill="none" d="M2.5 21h8l-4 -7z" />
+  <path stroke="currentColor" fill="none" d="M14 3l7 7" />
+  <path stroke="currentColor" fill="none" d="M14 10l7 -7" />
+  <path stroke="currentColor" fill="none" d="M18 14h3v3m0 4h-7v-7" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="icons" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.5 6.5m-3.5 0a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0 -7 0" />
+  <path stroke="currentColor" fill="none" d="M2.5 21h8l-4 -7z" />
+  <path stroke="currentColor" fill="none" d="M14 3l7 7" />
+  <path stroke="currentColor" fill="none" d="M14 10l7 -7" />
+  <path stroke="currentColor" fill="none" d="M14 14h7v7h-7z" />
+
+</symbol>
+<symbol id="id-badge-2" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 12h3v4h-3z" />
+  <path stroke="currentColor" fill="none" d="M10 6h-6a1 1 0 0 0 -1 1v12a1 1 0 0 0 1 1h16a1 1 0 0 0 1 -1v-12a1 1 0 0 0 -1 -1h-6" />
+  <path stroke="currentColor" fill="none" d="M10 3m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v3a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M14 16h2" />
+  <path stroke="currentColor" fill="none" d="M14 12h4" />
+
+</symbol>
+<symbol id="id-badge-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7.141 3.125a3 3 0 0 1 .859 -.125h8a3 3 0 0 1 3 3v9m-.13 3.874a3 3 0 0 1 -2.87 2.126h-8a3 3 0 0 1 -3 -3v-12a3 3 0 0 1 .128 -.869" />
+  <path stroke="currentColor" fill="none" d="M11.179 11.176a2 2 0 1 0 2.635 2.667" />
+  <path stroke="currentColor" fill="none" d="M10 6h4" />
+  <path stroke="currentColor" fill="none" d="M9 18h6" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="id-badge" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 3m0 3a3 3 0 0 1 3 -3h8a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3h-8a3 3 0 0 1 -3 -3z" />
+  <path stroke="currentColor" fill="none" d="M12 13m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M10 6h4" />
+  <path stroke="currentColor" fill="none" d="M9 18h6" />
+
+</symbol>
+<symbol id="id-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 4h10a3 3 0 0 1 3 3v10m-1.437 2.561c-.455 .279 -.99 .439 -1.563 .439h-12a3 3 0 0 1 -3 -3v-10c0 -1.083 .573 -2.031 1.433 -2.559" />
+  <path stroke="currentColor" fill="none" d="M8.175 8.178a2 2 0 1 0 2.646 2.65" />
+  <path stroke="currentColor" fill="none" d="M15 8h2" />
+  <path stroke="currentColor" fill="none" d="M16 12h1" />
+  <path stroke="currentColor" fill="none" d="M7 16h9" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="id" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 4m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v10a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z" />
+  <path stroke="currentColor" fill="none" d="M9 10m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M15 8l2 0" />
+  <path stroke="currentColor" fill="none" d="M15 12l2 0" />
+  <path stroke="currentColor" fill="none" d="M7 16l10 0" />
+
+</symbol>
+<symbol id="ikosaedr" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 8.007v7.986a2 2 0 0 1 -1.006 1.735l-7 4.007a2 2 0 0 1 -1.988 0l-7 -4.007a2 2 0 0 1 -1.006 -1.735v-7.986a2 2 0 0 1 1.006 -1.735l7 -4.007a2 2 0 0 1 1.988 0l7 4.007a2 2 0 0 1 1.006 1.735" />
+  <path stroke="currentColor" fill="none" d="M3.29 6.97l4.21 2.03" />
+  <path stroke="currentColor" fill="none" d="M20.71 6.97l-4.21 2.03" />
+  <path stroke="currentColor" fill="none" d="M20.7 17h-17.4" />
+  <path stroke="currentColor" fill="none" d="M11.76 2.03l-4.26 6.97l-4.3 7.84" />
+  <path stroke="currentColor" fill="none" d="M12.24 2.03q 2.797 4.44 4.26 6.97t 4.3 7.84" />
+  <path stroke="currentColor" fill="none" d="M12 17l-4.5 -8h9z" />
+  <path stroke="currentColor" fill="none" d="M12 17v5" />
+
+</symbol>
+<symbol id="image-in-picture" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 15c-2 0 -5 1 -5 5" />
+  <path stroke="currentColor" fill="none" d="M4 11m0 2a2 2 0 0 1 2 -2h5a2 2 0 0 1 2 2v5a2 2 0 0 1 -2 2h-5a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M4 7v-2a1 1 0 0 1 1 -1h2" />
+  <path stroke="currentColor" fill="none" d="M11 4h2" />
+  <path stroke="currentColor" fill="none" d="M17 4h2a1 1 0 0 1 1 1v2" />
+  <path stroke="currentColor" fill="none" d="M20 11v2" />
+  <path stroke="currentColor" fill="none" d="M20 17v2a1 1 0 0 1 -1 1h-2" />
+
+</symbol>
+<symbol id="inbox-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 4h10a2 2 0 0 1 2 2v10m-.593 3.422a2 2 0 0 1 -1.407 .578h-12a2 2 0 0 1 -2 -2v-12c0 -.554 .225 -1.056 .59 -1.418" />
+  <path stroke="currentColor" fill="none" d="M4 13h3l3 3h4l.987 -.987m2.013 -2.013h3" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="inbox" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M4 13h3l3 3h4l3 -3h3" />
+
+</symbol>
+<symbol id="indent-decrease" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 6l-7 0" />
+  <path stroke="currentColor" fill="none" d="M20 12l-9 0" />
+  <path stroke="currentColor" fill="none" d="M20 18l-7 0" />
+  <path stroke="currentColor" fill="none" d="M8 8l-4 4l4 4" />
+
+</symbol>
+<symbol id="indent-increase" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 6l-11 0" />
+  <path stroke="currentColor" fill="none" d="M20 12l-7 0" />
+  <path stroke="currentColor" fill="none" d="M20 18l-11 0" />
+  <path stroke="currentColor" fill="none" d="M4 8l4 4l-4 4" />
+
+</symbol>
+<symbol id="infinity-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8.165 8.174a4 4 0 0 0 -5.166 3.826a4 4 0 0 0 6.829 2.828a10 10 0 0 0 2.172 -2.828m1.677 -2.347a10 10 0 0 1 .495 -.481a4 4 0 1 1 5.129 6.1m-3.521 .537a4 4 0 0 1 -1.608 -.981a10 10 0 0 1 -2.172 -2.828" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="infinity" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9.828 9.172a4 4 0 1 0 0 5.656a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+
+</symbol>
+<symbol id="info-circle" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+
+</symbol>
+<symbol id="info-hexagon" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M19.875 6.27c.7 .398 1.13 1.143 1.125 1.948v7.284c0 .809 -.443 1.555 -1.158 1.948l-6.75 4.27a2.269 2.269 0 0 1 -2.184 0l-6.75 -4.27a2.225 2.225 0 0 1 -1.158 -1.948v-7.285c0 -.809 .443 -1.554 1.158 -1.947l6.75 -3.98a2.33 2.33 0 0 1 2.25 0l6.75 3.98h-.033z" />
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+
+</symbol>
+<symbol id="info-octagon" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.802 2.165l5.575 2.389c.48 .206 .863 .589 1.07 1.07l2.388 5.574c.22 .512 .22 1.092 0 1.604l-2.389 5.575c-.206 .48 -.589 .863 -1.07 1.07l-5.574 2.388c-.512 .22 -1.092 .22 -1.604 0l-5.575 -2.389a2.036 2.036 0 0 1 -1.07 -1.07l-2.388 -5.574a2.036 2.036 0 0 1 0 -1.604l2.389 -5.575c.206 -.48 .589 -.863 1.07 -1.07l5.574 -2.388a2.036 2.036 0 0 1 1.604 0z" />
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+
+</symbol>
+<symbol id="info-small" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+
+</symbol>
+<symbol id="info-square-rounded" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+  <path stroke="currentColor" fill="none" d="M12 3c7.2 0 9 1.8 9 9s-1.8 9 -9 9s-9 -1.8 -9 -9s1.8 -9 9 -9z" />
+
+</symbol>
+<symbol id="info-square" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M3 5a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14z" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+
+</symbol>
+<symbol id="info-triangle" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0z" />
+  <path stroke="currentColor" fill="none" d="M12 9h.01" />
+  <path stroke="currentColor" fill="none" d="M11 12h1v4h1" />
+
+</symbol>
+<symbol id="inner-shadow-bottom-left" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M6 12a6 6 0 0 0 6 6" />
+
+</symbol>
+<symbol id="inner-shadow-bottom-right" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 21a9 9 0 1 1 0 -18a9 9 0 0 1 0 18z" />
+  <path stroke="currentColor" fill="none" d="M18 12a6 6 0 0 1 -6 6" />
+
+</symbol>
+<symbol id="inner-shadow-bottom" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18.364 18.364a9 9 0 1 0 -12.728 -12.728a9 9 0 0 0 12.728 12.728z" />
+  <path stroke="currentColor" fill="none" d="M7.757 16.243a6 6 0 0 0 8.486 0" />
+
+</symbol>
+<symbol id="inner-shadow-left" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5.636 5.636a9 9 0 1 1 12.728 12.728a9 9 0 0 1 -12.728 -12.728z" />
+  <path stroke="currentColor" fill="none" d="M7.757 16.243a6 6 0 0 1 0 -8.486" />
+
+</symbol>
+<symbol id="inner-shadow-right" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18.364 18.364a9 9 0 1 1 -12.728 -12.728a9 9 0 0 1 12.728 12.728z" />
+  <path stroke="currentColor" fill="none" d="M16.243 7.757a6 6 0 0 1 0 8.486" />
+
+</symbol>
+<symbol id="inner-shadow-top-left" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 3a9 9 0 1 1 0 18a9 9 0 0 1 0 -18z" />
+  <path stroke="currentColor" fill="none" d="M6 12a6 6 0 0 1 6 -6" />
+
+</symbol>
+<symbol id="inner-shadow-top-right" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 3a9 9 0 1 0 0 18a9 9 0 0 0 0 -18z" />
+  <path stroke="currentColor" fill="none" d="M18 12a6 6 0 0 0 -6 -6" />
+
+</symbol>
+<symbol id="inner-shadow-top" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5.636 5.636a9 9 0 1 0 12.728 12.728a9 9 0 0 0 -12.728 -12.728z" />
+  <path stroke="currentColor" fill="none" d="M16.243 7.757a6 6 0 0 0 -8.486 0" />
+
+</symbol>
+<symbol id="input-ai" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 11v-2a2 2 0 0 0 -2 -2h-12a2 2 0 0 0 -2 2v5a2 2 0 0 0 2 2h4" />
+  <path stroke="currentColor" fill="none" d="M14 21v-4a2 2 0 1 1 4 0v4" />
+  <path stroke="currentColor" fill="none" d="M14 19h4" />
+  <path stroke="currentColor" fill="none" d="M21 15v6" />
+
+</symbol>
+<symbol id="input-check" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 13v-4a2 2 0 0 0 -2 -2h-12a2 2 0 0 0 -2 2v5a2 2 0 0 0 2 2h6" />
+  <path stroke="currentColor" fill="none" d="M15 19l2 2l4 -4" />
+
+</symbol>
+<symbol id="input-search" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 11v-2a2 2 0 0 0 -2 -2h-12a2 2 0 0 0 -2 2v5a2 2 0 0 0 2 2h5" />
+  <path stroke="currentColor" fill="none" d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M20.2 20.2l1.8 1.8" />
+
+</symbol>
+<symbol id="input-spark" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M19 22.5a4.75 4.75 0 0 1 3.5 -3.5a4.75 4.75 0 0 1 -3.5 -3.5a4.75 4.75 0 0 1 -3.5 3.5a4.75 4.75 0 0 1 3.5 3.5" />
+  <path stroke="currentColor" fill="none" d="M20 11.5v-2.5a2 2 0 0 0 -2 -2h-12a2 2 0 0 0 -2 2v5a2 2 0 0 0 2 2h7" />
+
+</symbol>
+<symbol id="input-x" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 13v-4a2 2 0 0 0 -2 -2h-12a2 2 0 0 0 -2 2v5a2 2 0 0 0 2 2h7" />
+  <path stroke="currentColor" fill="none" d="M22 22l-5 -5" />
+  <path stroke="currentColor" fill="none" d="M17 22l5 -5" />
+
+</symbol>
+<symbol id="invoice" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path stroke="currentColor" fill="none" d="M19 12v7a1.78 1.78 0 0 1 -3.1 1.4a1.65 1.65 0 0 0 -2.6 0a1.65 1.65 0 0 1 -2.6 0a1.65 1.65 0 0 0 -2.6 0a1.78 1.78 0 0 1 -3.1 -1.4v-14a2 2 0 0 1 2 -2h7l5 5v4.25" />
+
+</symbol>
+<symbol id="ironing-1" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9 6h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.985 1.164h-16.82a7 7 0 0 1 7 -7h9.8" />
+  <path stroke="currentColor" fill="none" d="M12 15h.01" />
+
+</symbol>
+<symbol id="ironing-2" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 15h.01" />
+  <path stroke="currentColor" fill="none" d="M9 6h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.985 1.164h-16.82a7 7 0 0 1 7 -7h9.8" />
+  <path stroke="currentColor" fill="none" d="M14 15h.01" />
+
+</symbol>
+<symbol id="ironing-3" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 15h.01" />
+  <path stroke="currentColor" fill="none" d="M9 6h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.985 1.164h-16.82a7 7 0 0 1 7 -7h9.8" />
+  <path stroke="currentColor" fill="none" d="M9 15h.01" />
+  <path stroke="currentColor" fill="none" d="M15 15h.01" />
+
+</symbol>
+<symbol id="ironing-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 6h6.459a3 3 0 0 1 2.959 2.507l.577 3.464l.804 4.821l.007 .044m-2.806 1.164h-15a7 7 0 0 1 7 -7h1m4 0h4.8" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="ironing-steam-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9 4h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.821 1.15" />
+  <path stroke="currentColor" fill="none" d="M16 16h-13a7 7 0 0 1 6.056 -6.937" />
+  <path stroke="currentColor" fill="none" d="M13 9h6.8" />
+  <path stroke="currentColor" fill="none" d="M12 19v2" />
+  <path stroke="currentColor" fill="none" d="M8 19l-1 2" />
+  <path stroke="currentColor" fill="none" d="M16 19l1 2" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="ironing-steam" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 19v2" />
+  <path stroke="currentColor" fill="none" d="M9 4h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.985 1.164h-16.82a7 7 0 0 1 7 -7h9.8" />
+  <path stroke="currentColor" fill="none" d="M8 19l-1 2" />
+  <path stroke="currentColor" fill="none" d="M16 19l1 2" />
+
+</symbol>
+<symbol id="ironing" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9 6h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.985 1.164h-16.82a7 7 0 0 1 7 -7h9.8" />
+
+</symbol>
+<symbol id="irregular-polyhedron-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4.706 4.73a1 1 0 0 0 -.458 1.14l1.752 6.13l-1.752 6.13a1 1 0 0 0 .592 1.205l6.282 2.503a2.46 2.46 0 0 0 1.756 0l6.282 -2.503c.04 -.016 .079 -.035 .116 -.055m-.474 -4.474l-.802 -2.806l1.752 -6.13a1 1 0 0 0 -.592 -1.205l-6.282 -2.503a2.46 2.46 0 0 0 -1.756 0l-3.544 1.412" />
+  <path stroke="currentColor" fill="none" d="M4.5 5.5c.661 .214 1.161 .38 1.5 .5m6 2c.29 -.003 .603 -.06 .878 -.17l6.622 -2.33" />
+  <path stroke="currentColor" fill="none" d="M6 12l5.21 1.862a2.34 2.34 0 0 0 1.58 0l.742 -.265m2.956 -1.057c.312 -.11 .816 -.291 1.512 -.54" />
+  <path stroke="currentColor" fill="none" d="M12 22v-10" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="irregular-polyhedron-plus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18 12l1.752 -6.13a1 1 0 0 0 -.592 -1.205l-6.282 -2.503a2.46 2.46 0 0 0 -1.756 0l-6.282 2.503a1 1 0 0 0 -.592 1.204l1.752 6.131l-1.752 6.13a1 1 0 0 0 .592 1.205l6.282 2.503a2.46 2.46 0 0 0 1.756 0l.221 -.088" />
+  <path stroke="currentColor" fill="none" d="M4.5 5.5l6.622 2.33a2.35 2.35 0 0 0 1.756 0l6.622 -2.33" />
+  <path stroke="currentColor" fill="none" d="M6 12l5.21 1.862a2.34 2.34 0 0 0 1.58 0l5.21 -1.862" />
+  <path stroke="currentColor" fill="none" d="M12 22v-14" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+
+</symbol>
+<symbol id="irregular-polyhedron" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 12l-1.752 6.13a1 1 0 0 0 .592 1.205l6.282 2.503a2.46 2.46 0 0 0 1.756 0l6.282 -2.503a1 1 0 0 0 .592 -1.204l-1.752 -6.131l1.752 -6.13a1 1 0 0 0 -.592 -1.205l-6.282 -2.503a2.46 2.46 0 0 0 -1.756 0l-6.282 2.503a1 1 0 0 0 -.592 1.204l1.752 6.131z" />
+  <path stroke="currentColor" fill="none" d="M4.5 5.5l6.622 2.33a2.35 2.35 0 0 0 1.756 0l6.622 -2.33" />
+  <path stroke="currentColor" fill="none" d="M6 12l5.21 1.862a2.34 2.34 0 0 0 1.58 0l5.21 -1.862" />
+  <path stroke="currentColor" fill="none" d="M12 22v-14" />
+
+</symbol>
+<symbol id="italic" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 5l6 0" />
+  <path stroke="currentColor" fill="none" d="M7 19l6 0" />
+  <path stroke="currentColor" fill="none" d="M14 5l-4 14" />
+
+</symbol>
+<symbol id="jacket" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M16 3l-4 5l-4 -5" />
+  <path stroke="currentColor" fill="none" d="M12 19a2 2 0 0 1 -2 2h-4a2 2 0 0 1 -2 -2v-8.172a2 2 0 0 1 .586 -1.414l.828 -.828a2 2 0 0 0 .586 -1.414v-2.172a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v2.172a2 2 0 0 0 .586 1.414l.828 .828a2 2 0 0 1 .586 1.414v8.172a2 2 0 0 1 -2 2h-4a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M20 13h-3a1 1 0 0 0 -1 1v2a1 1 0 0 0 1 1h3" />
+  <path stroke="currentColor" fill="none" d="M4 17h3a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-3" />
+  <path stroke="currentColor" fill="none" d="M12 19v-11" />
+
+</symbol>
+<symbol id="jetpack" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 6a3 3 0 1 0 -6 0v7h6v-7z" />
+  <path stroke="currentColor" fill="none" d="M14 13h6v-7a3 3 0 0 0 -6 0v7z" />
+  <path stroke="currentColor" fill="none" d="M5 16c0 2.333 .667 4 2 5c1.333 -1 2 -2.667 2 -5" />
+  <path stroke="currentColor" fill="none" d="M15 16c0 2.333 .667 4 2 5c1.333 -1 2 -2.667 2 -5" />
+  <path stroke="currentColor" fill="none" d="M10 8h4" />
+  <path stroke="currentColor" fill="none" d="M10 11h4" />
+
+</symbol>
+<symbol id="jewish-star" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 2l3 5h6l-3 5l3 5h-6l-3 5l-3 -5h-6l3 -5l-3 -5h6z" />
+
+</symbol>
+<symbol id="join-bevel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 4h3a2 2 0 0 1 2 2v6a1 1 0 0 0 1 1h6a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-6.586a1 1 0 0 1 -.707 -.293l-6.414 -6.414a1 1 0 0 1 -.293 -.707v-6.586a2 2 0 0 1 2 -2" />
+
+</symbol>
+<symbol id="join-round" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 4h3a2 2 0 0 1 2 2v6a1 1 0 0 0 1 1h6a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-6a8 8 0 0 1 -8 -8v-6a2 2 0 0 1 2 -2" />
+
+</symbol>
+<symbol id="join-straight" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 4h3a2 2 0 0 1 2 2v6a1 1 0 0 0 1 1h6a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2" />
+
+</symbol>
+<symbol id="joker" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 16m0 1.5a1.5 1.5 0 0 1 1.5 -1.5h11a1.5 1.5 0 0 1 1.5 1.5v0a1.5 1.5 0 0 1 -1.5 1.5h-11a1.5 1.5 0 0 1 -1.5 -1.5z" />
+  <path stroke="currentColor" fill="none" d="M12 16q -2.5 -8 -6 -8q -2.5 0 -3 2c2.953 .31 3.308 3.33 4 6" />
+  <path stroke="currentColor" fill="none" d="M12 16q 2.5 -8 6 -8q 2.5 0 3 2c-2.953 .31 -3.308 3.33 -4 6" />
+  <path stroke="currentColor" fill="none" d="M9 9.5q 2 -3.5 3 -3.5t 3 3.5" />
+
+</symbol>
+<symbol id="jpg" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 8h-2a2 2 0 0 0 -2 2v4a2 2 0 0 0 2 2h2v-4h-1" />
+  <path stroke="currentColor" fill="none" d="M10 16v-8h2a2 2 0 1 1 0 4h-2" />
+  <path stroke="currentColor" fill="none" d="M3 8h4v6a2 2 0 0 1 -2 2h-1.5a.5 .5 0 0 1 -.5 -.5v-.5" />
+
+</symbol>
+<symbol id="json" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 16v-8l3 8v-8" />
+  <path stroke="currentColor" fill="none" d="M15 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2z" />
+  <path stroke="currentColor" fill="none" d="M1 8h3v6.5a1.5 1.5 0 0 1 -3 0v-.5" />
+  <path stroke="currentColor" fill="none" d="M7 15a1 1 0 0 0 1 1h1a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-1a1 1 0 0 1 -1 -1v-2a1 1 0 0 1 1 -1h1a1 1 0 0 1 1 1" />
+
+</symbol>
+<symbol id="jump-rope" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 14v-6a3 3 0 1 1 6 0v8a3 3 0 0 0 6 0v-6" />
+  <path stroke="currentColor" fill="none" d="M16 3m0 2a2 2 0 0 1 2 -2h0a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h0a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M4 14m0 2a2 2 0 0 1 2 -2h0a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h0a2 2 0 0 1 -2 -2z" />
+
+</symbol>
+<symbol id="karate" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18 4m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M3 9l4.5 1l3 2.5" />
+  <path stroke="currentColor" fill="none" d="M13 21v-8l3 -5.5" />
+  <path stroke="currentColor" fill="none" d="M8 4.5l4 2l4 1l4 3.5l-2 3.5" />
+
+</symbol>
+<symbol id="kayak" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.414 6.414a2 2 0 0 0 0 -2.828l-1.414 -1.414l-2.828 2.828l1.414 1.414a2 2 0 0 0 2.828 0z" />
+  <path stroke="currentColor" fill="none" d="M17.586 17.586a2 2 0 0 0 0 2.828l1.414 1.414l2.828 -2.828l-1.414 -1.414a2 2 0 0 0 -2.828 0z" />
+  <path stroke="currentColor" fill="none" d="M6.5 6.5l11 11" />
+  <path stroke="currentColor" fill="none" d="M22 2.5c-9.983 2.601 -17.627 7.952 -20 19.5c9.983 -2.601 17.627 -7.952 20 -19.5z" />
+  <path stroke="currentColor" fill="none" d="M6.5 12.5l5 5" />
+  <path stroke="currentColor" fill="none" d="M12.5 6.5l5 5" />
+
+</symbol>
+<symbol id="kerning" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M16 15v-3.5a2.5 2.5 0 1 1 5 0v3.5m0 -2h-5" />
+  <path stroke="currentColor" fill="none" d="M3 9l3 6l3 -6" />
+  <path stroke="currentColor" fill="none" d="M9 20l6 -16" />
+
+</symbol>
+<symbol id="key-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10.17 6.159l2.316 -2.316a2.877 2.877 0 0 1 4.069 0l3.602 3.602a2.877 2.877 0 0 1 0 4.069l-2.33 2.33" />
+  <path stroke="currentColor" fill="none" d="M14.931 14.948a2.863 2.863 0 0 1 -1.486 -.79l-.301 -.302l-6.558 6.558a2 2 0 0 1 -1.239 .578l-.175 .008h-1.172a1 1 0 0 1 -.993 -.883l-.007 -.117v-1.172a2 2 0 0 1 .467 -1.284l.119 -.13l.414 -.414h2v-2h2v-2l2.144 -2.144l-.301 -.301a2.863 2.863 0 0 1 -.794 -1.504" />
+  <path stroke="currentColor" fill="none" d="M15 9h.01" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="key" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M16.555 3.843l3.602 3.602a2.877 2.877 0 0 1 0 4.069l-2.643 2.643a2.877 2.877 0 0 1 -4.069 0l-.301 -.301l-6.558 6.558a2 2 0 0 1 -1.239 .578l-.175 .008h-1.172a1 1 0 0 1 -.993 -.883l-.007 -.117v-1.172a2 2 0 0 1 .467 -1.284l.119 -.13l.414 -.414h2v-2h2v-2l2.144 -2.144l-.301 -.301a2.877 2.877 0 0 1 0 -4.069l2.643 -2.643a2.877 2.877 0 0 1 4.069 0z" />
+  <path stroke="currentColor" fill="none" d="M15 9h.01" />
+
+</symbol>
+<symbol id="keyboard-hide" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 3m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M6 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M14 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M6 11l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 11l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 11l4 0" />
+  <path stroke="currentColor" fill="none" d="M10 21l2 -2l2 2" />
+
+</symbol>
+<symbol id="keyboard-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18 18h-14a2 2 0 0 1 -2 -2v-8a2 2 0 0 1 2 -2h2m4 0h10a2 2 0 0 1 2 2v8c0 .554 -.226 1.056 -.59 1.418" />
+  <path stroke="currentColor" fill="none" d="M6 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M14 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M6 14l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 14l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 14l4 0" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="keyboard-show" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 3m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M6 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M14 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 7l0 .01" />
+  <path stroke="currentColor" fill="none" d="M6 11l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 11l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 11l4 0" />
+  <path stroke="currentColor" fill="none" d="M10 19l2 2l2 -2" />
+
+</symbol>
+<symbol id="keyboard" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 6m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M6 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M14 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 10l0 .01" />
+  <path stroke="currentColor" fill="none" d="M6 14l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 14l0 .01" />
+  <path stroke="currentColor" fill="none" d="M10 14l4 .01" />
+
+</symbol>
+<symbol id="keyframe-align-center" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20v2" />
+  <path stroke="currentColor" fill="none" d="M12.816 16.58c-.207 .267 -.504 .42 -.816 .42c-.312 0 -.61 -.153 -.816 -.42l-2.908 -3.748a1.39 1.39 0 0 1 0 -1.664l2.908 -3.748c.207 -.267 .504 -.42 .816 -.42c.312 0 .61 .153 .816 .42l2.908 3.748a1.39 1.39 0 0 1 0 1.664l-2.908 3.748z" />
+  <path stroke="currentColor" fill="none" d="M12 2v2" />
+  <path stroke="currentColor" fill="none" d="M3 12h2" />
+  <path stroke="currentColor" fill="none" d="M19 12h2" />
+
+</symbol>
+</svg>

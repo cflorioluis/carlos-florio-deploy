@@ -1,0 +1,866 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="device-cctv" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 3m0 1a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M12 14m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+  <path stroke="currentColor" fill="none" d="M19 7v7a7 7 0 0 1 -14 0v-7" />
+  <path stroke="currentColor" fill="none" d="M12 14l.01 0" />
+
+</symbol>
+<symbol id="device-computer-camera-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.15 6.153a7 7 0 0 0 9.696 9.696m2 -2a7 7 0 0 0 -9.699 -9.695" />
+  <path stroke="currentColor" fill="none" d="M9.13 9.122a3 3 0 0 0 3.743 3.749m2 -2a3 3 0 0 0 -3.737 -3.736" />
+  <path stroke="currentColor" fill="none" d="M8 16l-2.091 3.486a1 1 0 0 0 .857 1.514h10.468a1 1 0 0 0 .857 -1.514l-2.091 -3.486" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="device-computer-camera" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+  <path stroke="currentColor" fill="none" d="M12 10m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M8 16l-2.091 3.486a1 1 0 0 0 .857 1.514h10.468a1 1 0 0 0 .857 -1.514l-2.091 -3.486" />
+
+</symbol>
+<symbol id="device-desktop-analytics" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 4m0 1a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M7 20h10" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M15 16v4" />
+  <path stroke="currentColor" fill="none" d="M9 12v-4" />
+  <path stroke="currentColor" fill="none" d="M12 12v-1" />
+  <path stroke="currentColor" fill="none" d="M15 12v-2" />
+  <path stroke="currentColor" fill="none" d="M12 12v-1" />
+
+</symbol>
+<symbol id="device-desktop-bolt" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14.5 16h-10.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h6" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M19 16l-2 3h4l-2 3" />
+
+</symbol>
+<symbol id="device-desktop-cancel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 16h-8.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M19 19m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M17 21l4 -4" />
+
+</symbol>
+<symbol id="device-desktop-check" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 16h-8a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M15 19l2 2l4 -4" />
+  <path stroke="currentColor" fill="none" d="M7 20h4" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+
+</symbol>
+<symbol id="device-desktop-code" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 16h-8.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M7 20h4" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M20 21l2 -2l-2 -2" />
+  <path stroke="currentColor" fill="none" d="M17 17l-2 2l2 2" />
+
+</symbol>
+<symbol id="device-desktop-cog" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 16h-8a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M19.001 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M19.001 15.5v1.5" />
+  <path stroke="currentColor" fill="none" d="M19.001 21v1.5" />
+  <path stroke="currentColor" fill="none" d="M22.032 17.25l-1.299 .75" />
+  <path stroke="currentColor" fill="none" d="M17.27 20l-1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M15.97 17.25l1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M20.733 20l1.3 .75" />
+
+</symbol>
+<symbol id="device-desktop-dollar" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 16h-9a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v5.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h6.5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M21 15h-2.5a1.5 1.5 0 0 0 0 3h1a1.5 1.5 0 0 1 0 3h-2.5" />
+  <path stroke="currentColor" fill="none" d="M19 21v1m0 -8v1" />
+
+</symbol>
+<symbol id="device-desktop-down" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 16h-9.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 3l-3 -3" />
+
+</symbol>
+<symbol id="device-desktop-exclamation" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 16h-11a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7" />
+  <path stroke="currentColor" fill="none" d="M7 20h8" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M15 16v4" />
+  <path stroke="currentColor" fill="none" d="M19 16v3" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+
+</symbol>
+<symbol id="device-desktop-heart" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 16h-6a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v6" />
+  <path stroke="currentColor" fill="none" d="M7 20h3.5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M18 22l3.35 -3.284a2.143 2.143 0 0 0 .005 -3.071a2.242 2.242 0 0 0 -3.129 -.006l-.224 .22l-.223 -.22a2.242 2.242 0 0 0 -3.128 -.006a2.143 2.143 0 0 0 -.006 3.071l3.355 3.296z" />
+
+</symbol>
+<symbol id="device-desktop-minus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 16h-9.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v10" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+
+</symbol>
+<symbol id="device-desktop-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 4h12a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1m-4 0h-12a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1" />
+  <path stroke="currentColor" fill="none" d="M7 20h10" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M15 16v4" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="device-desktop-pause" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 16h-9a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M17 17v5" />
+  <path stroke="currentColor" fill="none" d="M21 17v5" />
+  <path stroke="currentColor" fill="none" d="M7 20h6" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+
+</symbol>
+<symbol id="device-desktop-pin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 16h-8.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v6" />
+  <path stroke="currentColor" fill="none" d="M21.121 20.121a3 3 0 1 0 -4.242 0c.418 .419 1.125 1.045 2.121 1.879c1.051 -.89 1.759 -1.516 2.121 -1.879z" />
+  <path stroke="currentColor" fill="none" d="M19 18v.01" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+
+</symbol>
+<symbol id="device-desktop-plus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 16h-9.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+
+</symbol>
+<symbol id="device-desktop-question" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 16h-9.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v6.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h8" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+  <path stroke="currentColor" fill="none" d="M19 19a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483" />
+
+</symbol>
+<symbol id="device-desktop-search" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 16h-7.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v6.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h4" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M20.2 20.2l1.8 1.8" />
+
+</symbol>
+<symbol id="device-desktop-share" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 16h-8.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M7 20h5.5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M16 22l5 -5" />
+  <path stroke="currentColor" fill="none" d="M21 21.5v-4.5h-4.5" />
+
+</symbol>
+<symbol id="device-desktop-star" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 16h-6a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v6.5" />
+  <path stroke="currentColor" fill="none" d="M7 20h3.5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z" />
+
+</symbol>
+<symbol id="device-desktop-up" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 16h-9.5a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M19 22v-6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 -3l-3 3" />
+  <path stroke="currentColor" fill="none" d="M7 20h5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+
+</symbol>
+<symbol id="device-desktop-x" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 16h-9a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M7 20h6.5" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M22 22l-5 -5" />
+  <path stroke="currentColor" fill="none" d="M17 22l5 -5" />
+
+</symbol>
+<symbol id="device-desktop" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 5a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10z" />
+  <path stroke="currentColor" fill="none" d="M7 20h10" />
+  <path stroke="currentColor" fill="none" d="M9 16v4" />
+  <path stroke="currentColor" fill="none" d="M15 16v4" />
+
+</symbol>
+<symbol id="device-floppy" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 4h10l4 4v10a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M12 14m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M14 4l0 4l-6 0l0 -4" />
+
+</symbol>
+<symbol id="device-gamepad-2" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 5h3.5a5 5 0 0 1 0 10h-5.5l-4.015 4.227a2.3 2.3 0 0 1 -3.923 -2.035l1.634 -8.173a5 5 0 0 1 4.904 -4.019h3.4z" />
+  <path stroke="currentColor" fill="none" d="M14 15l4.07 4.284a2.3 2.3 0 0 0 3.925 -2.023l-1.6 -8.232" />
+  <path stroke="currentColor" fill="none" d="M8 9v2" />
+  <path stroke="currentColor" fill="none" d="M7 10h2" />
+  <path stroke="currentColor" fill="none" d="M14 10h2" />
+
+</symbol>
+<symbol id="device-gamepad-3" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9 12l-3 -3h-2a1 1 0 0 0 -1 1v4a1 1 0 0 0 1 1h2z" />
+  <path stroke="currentColor" fill="none" d="M15 12l3 -3h2a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-2z" />
+  <path stroke="currentColor" fill="none" d="M12 15l-3 3v2a1 1 0 0 0 1 1h4a1 1 0 0 0 1 -1v-2z" />
+  <path stroke="currentColor" fill="none" d="M12 9l-3 -3v-2a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v2z" />
+
+</symbol>
+<symbol id="device-gamepad" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 6m0 2a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M6 12h4m-2 -2v4" />
+  <path stroke="currentColor" fill="none" d="M15 11l0 .01" />
+  <path stroke="currentColor" fill="none" d="M18 13l0 .01" />
+
+</symbol>
+<symbol id="device-heart-monitor" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M4 9h6l1 -2l2 4l1 -2h6" />
+  <path stroke="currentColor" fill="none" d="M4 14h16" />
+  <path stroke="currentColor" fill="none" d="M14 17v.01" />
+  <path stroke="currentColor" fill="none" d="M17 17v.01" />
+
+</symbol>
+<symbol id="device-imac-bolt" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 17h-9.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h13" />
+  <path stroke="currentColor" fill="none" d="M8 21h5.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M19 16l-2 3h4l-2 3" />
+
+</symbol>
+<symbol id="device-imac-cancel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 17h-8.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M3 13h12.5" />
+  <path stroke="currentColor" fill="none" d="M8 21h4.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M19 19m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M17 21l4 -4" />
+
+</symbol>
+<symbol id="device-imac-check" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 17h-7.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v9" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h3.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M15 19l2 2l4 -4" />
+
+</symbol>
+<symbol id="device-imac-code" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 17h-7.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v9" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h3.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M20 21l2 -2l-2 -2" />
+  <path stroke="currentColor" fill="none" d="M17 17l-2 2l2 2" />
+
+</symbol>
+<symbol id="device-imac-cog" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 17h-8a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M3 13h13" />
+  <path stroke="currentColor" fill="none" d="M8 21h4" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M19.001 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M19.001 15.5v1.5" />
+  <path stroke="currentColor" fill="none" d="M19.001 21v1.5" />
+  <path stroke="currentColor" fill="none" d="M22.032 17.25l-1.299 .75" />
+  <path stroke="currentColor" fill="none" d="M17.27 20l-1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M15.97 17.25l1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M20.733 20l1.3 .75" />
+
+</symbol>
+<symbol id="device-imac-dollar" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 17h-9a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v6.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h11" />
+  <path stroke="currentColor" fill="none" d="M8 21h5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M21 15h-2.5a1.5 1.5 0 0 0 0 3h1a1.5 1.5 0 0 1 0 3h-2.5" />
+  <path stroke="currentColor" fill="none" d="M19 21v1m0 -8v1" />
+
+</symbol>
+<symbol id="device-imac-down" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 17h-8.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h13" />
+  <path stroke="currentColor" fill="none" d="M8 21h4.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 3l-3 -3" />
+
+</symbol>
+<symbol id="device-imac-exclamation" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 17h-11a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h13" />
+  <path stroke="currentColor" fill="none" d="M8 21h7" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M14 17l.5 4" />
+  <path stroke="currentColor" fill="none" d="M19 16v3" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+
+</symbol>
+<symbol id="device-imac-heart" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 17h-6a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7" />
+  <path stroke="currentColor" fill="none" d="M3 13h9" />
+  <path stroke="currentColor" fill="none" d="M8 21h3.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M18 22l3.35 -3.284a2.143 2.143 0 0 0 .005 -3.071a2.242 2.242 0 0 0 -3.129 -.006l-.224 .22l-.223 -.22a2.242 2.242 0 0 0 -3.128 -.006a2.143 2.143 0 0 0 -.006 3.071l3.355 3.296z" />
+
+</symbol>
+<symbol id="device-imac-minus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 17h-8.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v11" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h4.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+
+</symbol>
+<symbol id="device-imac-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 3h13a1 1 0 0 1 1 1v12c0 .28 -.115 .532 -.3 .713m-3.7 .287h-13a1 1 0 0 1 -1 -1v-12c0 -.276 .112 -.526 .293 -.707" />
+  <path stroke="currentColor" fill="none" d="M3 13h10m4 0h4" />
+  <path stroke="currentColor" fill="none" d="M8 21h8" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M14 17l.5 4" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="device-imac-pause" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 17h-9a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v9" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M17 17v5" />
+  <path stroke="currentColor" fill="none" d="M21 17v5" />
+
+</symbol>
+<symbol id="device-imac-pin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 17h-8a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M21.121 20.121a3 3 0 1 0 -4.242 0c.418 .419 1.125 1.045 2.121 1.879c1.051 -.89 1.759 -1.516 2.121 -1.879z" />
+  <path stroke="currentColor" fill="none" d="M19 18v.01" />
+  <path stroke="currentColor" fill="none" d="M3 13h11" />
+  <path stroke="currentColor" fill="none" d="M8 21h4.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+
+</symbol>
+<symbol id="device-imac-plus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 17h-8.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h13.5" />
+  <path stroke="currentColor" fill="none" d="M8 21h4.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+
+</symbol>
+<symbol id="device-imac-question" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14 17h-10a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h11.5" />
+  <path stroke="currentColor" fill="none" d="M8 21h7" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M14 17l.5 4" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+  <path stroke="currentColor" fill="none" d="M19 19a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483" />
+
+</symbol>
+<symbol id="device-imac-search" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 17h-7a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8" />
+  <path stroke="currentColor" fill="none" d="M3 13h10" />
+  <path stroke="currentColor" fill="none" d="M8 21h4" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M20.2 20.2l1.8 1.8" />
+
+</symbol>
+<symbol id="device-imac-share" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 17h-8.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v9" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h4" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M16 22l5 -5" />
+  <path stroke="currentColor" fill="none" d="M21 21.5v-4.5h-4.5" />
+
+</symbol>
+<symbol id="device-imac-star" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 17h-6a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v7.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h10" />
+  <path stroke="currentColor" fill="none" d="M8 21h3" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z" />
+
+</symbol>
+<symbol id="device-imac-up" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 17h-8.5a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v8.5" />
+  <path stroke="currentColor" fill="none" d="M3 13h13" />
+  <path stroke="currentColor" fill="none" d="M8 21h4.5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M19 22v-6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 -3l-3 3" />
+
+</symbol>
+<symbol id="device-imac-x" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 17h-9a1 1 0 0 1 -1 -1v-12a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v9" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h5" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M22 22l-5 -5" />
+  <path stroke="currentColor" fill="none" d="M17 22l5 -5" />
+
+</symbol>
+<symbol id="device-imac" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 4a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v12a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-12z" />
+  <path stroke="currentColor" fill="none" d="M3 13h18" />
+  <path stroke="currentColor" fill="none" d="M8 21h8" />
+  <path stroke="currentColor" fill="none" d="M10 17l-.5 4" />
+  <path stroke="currentColor" fill="none" d="M14 17l.5 4" />
+
+</symbol>
+<symbol id="device-ipad-bolt" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 21h-7.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 18h4" />
+  <path stroke="currentColor" fill="none" d="M19 16l-2 3h4l-2 3" />
+
+</symbol>
+<symbol id="device-ipad-cancel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 21h-6.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M19 19m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M17 21l4 -4" />
+
+</symbol>
+<symbol id="device-ipad-check" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 21h-5.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v8" />
+  <path stroke="currentColor" fill="none" d="M9 18h2" />
+  <path stroke="currentColor" fill="none" d="M15 19l2 2l4 -4" />
+
+</symbol>
+<symbol id="device-ipad-code" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 21h-5.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v8" />
+  <path stroke="currentColor" fill="none" d="M9 18h2" />
+  <path stroke="currentColor" fill="none" d="M20 21l2 -2l-2 -2" />
+  <path stroke="currentColor" fill="none" d="M17 17l-2 2l2 2" />
+
+</symbol>
+<symbol id="device-ipad-cog" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 21h-6a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6.5" />
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M19.001 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M19.001 15.5v1.5" />
+  <path stroke="currentColor" fill="none" d="M19.001 21v1.5" />
+  <path stroke="currentColor" fill="none" d="M22.032 17.25l-1.299 .75" />
+  <path stroke="currentColor" fill="none" d="M17.27 20l-1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M15.97 17.25l1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M20.733 20l1.3 .75" />
+
+</symbol>
+<symbol id="device-ipad-dollar" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 21h-7a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v5" />
+  <path stroke="currentColor" fill="none" d="M9 18h4" />
+  <path stroke="currentColor" fill="none" d="M21 15h-2.5a1.5 1.5 0 0 0 0 3h1a1.5 1.5 0 0 1 0 3h-2.5" />
+  <path stroke="currentColor" fill="none" d="M19 21v1m0 -8v1" />
+
+</symbol>
+<symbol id="device-ipad-down" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 21h-6.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 3l-3 -3" />
+
+</symbol>
+<symbol id="device-ipad-exclamation" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 21h-9a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 18h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v3" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+
+</symbol>
+<symbol id="device-ipad-heart" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 21h-5.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6" />
+  <path stroke="currentColor" fill="none" d="M9 18h1" />
+  <path stroke="currentColor" fill="none" d="M18 22l3.35 -3.284a2.143 2.143 0 0 0 .005 -3.071a2.242 2.242 0 0 0 -3.129 -.006l-.224 .22l-.223 -.22a2.242 2.242 0 0 0 -3.128 -.006a2.143 2.143 0 0 0 -.006 3.071l3.355 3.296z" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-bolt" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 20h-8a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h4.5" />
+  <path stroke="currentColor" fill="none" d="M19 16l-2 3h4l-2 3" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-cancel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h3.5" />
+  <path stroke="currentColor" fill="none" d="M19 19m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M17 21l4 -4" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-check" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 20h-6a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M15 19l2 2l4 -4" />
+  <path stroke="currentColor" fill="none" d="M9 17h2.5" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-code" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 20h-6a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 17h2.5" />
+  <path stroke="currentColor" fill="none" d="M20 21l2 -2l-2 -2" />
+  <path stroke="currentColor" fill="none" d="M17 17l-2 2l2 2" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-cog" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6" />
+  <path stroke="currentColor" fill="none" d="M9 17h3" />
+  <path stroke="currentColor" fill="none" d="M19.001 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M19.001 15.5v1.5" />
+  <path stroke="currentColor" fill="none" d="M19.001 21v1.5" />
+  <path stroke="currentColor" fill="none" d="M22.032 17.25l-1.299 .75" />
+  <path stroke="currentColor" fill="none" d="M17.27 20l-1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M15.97 17.25l1.3 .75" />
+  <path stroke="currentColor" fill="none" d="M20.733 20l1.3 .75" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-dollar" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 20h-8a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v4.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h4" />
+  <path stroke="currentColor" fill="none" d="M21 15h-2.5a1.5 1.5 0 0 0 0 3h1a1.5 1.5 0 0 1 0 3h-2.5" />
+  <path stroke="currentColor" fill="none" d="M19 21v1m0 -8v1" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-down" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h3.5" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 3l-3 -3" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-exclamation" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 20h-10a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6" />
+  <path stroke="currentColor" fill="none" d="M9 17h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v3" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-heart" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10.5 20h-5.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5" />
+  <path stroke="currentColor" fill="none" d="M9 17h1" />
+  <path stroke="currentColor" fill="none" d="M18 22l3.35 -3.284a2.143 2.143 0 0 0 .005 -3.071a2.242 2.242 0 0 0 -3.129 -.006l-.224 .22l-.223 -.22a2.242 2.242 0 0 0 -3.128 -.006a2.143 2.143 0 0 0 -.006 3.071l3.355 3.296z" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-minus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9" />
+  <path stroke="currentColor" fill="none" d="M9 17h3.5" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 4h12a2 2 0 0 1 2 2v12m-2 2h-16a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2" />
+  <path stroke="currentColor" fill="none" d="M9 17h6" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-pause" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 20h-8a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 17h4" />
+  <path stroke="currentColor" fill="none" d="M17 17v5" />
+  <path stroke="currentColor" fill="none" d="M21 17v5" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-pin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5" />
+  <path stroke="currentColor" fill="none" d="M9 17h3" />
+  <path stroke="currentColor" fill="none" d="M21.121 20.121a3 3 0 1 0 -4.242 0c.418 .419 1.125 1.045 2.121 1.879c1.051 -.89 1.759 -1.516 2.121 -1.879z" />
+  <path stroke="currentColor" fill="none" d="M19 18v.01" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-plus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h3.5" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-question" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 20h-10a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5" />
+  <path stroke="currentColor" fill="none" d="M9 17h4.5" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+  <path stroke="currentColor" fill="none" d="M19 19a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-search" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 20h-6.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h2" />
+  <path stroke="currentColor" fill="none" d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M20.2 20.2l1.8 1.8" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-share" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 20h-7.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 17h3" />
+  <path stroke="currentColor" fill="none" d="M16 22l5 -5" />
+  <path stroke="currentColor" fill="none" d="M21 21.5v-4.5h-4.5" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-star" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10.5 20h-5.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h1" />
+  <path stroke="currentColor" fill="none" d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-up" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 20h-7a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v6.5" />
+  <path stroke="currentColor" fill="none" d="M9 17h3.5" />
+  <path stroke="currentColor" fill="none" d="M19 22v-6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 -3l-3 3" />
+
+</symbol>
+<symbol id="device-ipad-horizontal-x" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 20h-8.5a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M22 22l-5 -5" />
+  <path stroke="currentColor" fill="none" d="M17 22l5 -5" />
+  <path stroke="currentColor" fill="none" d="M9 17h4" />
+
+</symbol>
+<symbol id="device-ipad-horizontal" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 6a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-12z" />
+  <path stroke="currentColor" fill="none" d="M9 17h6" />
+
+</symbol>
+<symbol id="device-ipad-minus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 21h-6.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v10" />
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+
+</symbol>
+<symbol id="device-ipad-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 2h12a2 2 0 0 1 2 2v12m0 4a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-16" />
+  <path stroke="currentColor" fill="none" d="M9 19h6" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="device-ipad-pause" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 21h-7a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v8" />
+  <path stroke="currentColor" fill="none" d="M9 18h4" />
+  <path stroke="currentColor" fill="none" d="M17 17v5" />
+  <path stroke="currentColor" fill="none" d="M21 17v5" />
+
+</symbol>
+<symbol id="device-ipad-pin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 21h-6.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6" />
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M21.121 20.121a3 3 0 1 0 -4.242 0c.418 .419 1.125 1.045 2.121 1.879c1.051 -.89 1.759 -1.516 2.121 -1.879z" />
+  <path stroke="currentColor" fill="none" d="M19 18v.01" />
+
+</symbol>
+<symbol id="device-ipad-plus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 21h-6.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M16 19h6" />
+  <path stroke="currentColor" fill="none" d="M19 16v6" />
+
+</symbol>
+<symbol id="device-ipad-question" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 21h-9a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6" />
+  <path stroke="currentColor" fill="none" d="M9 18h5" />
+  <path stroke="currentColor" fill="none" d="M19 22v.01" />
+  <path stroke="currentColor" fill="none" d="M19 19a2.003 2.003 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483" />
+
+</symbol>
+<symbol id="device-ipad-search" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 21h-5.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6" />
+  <path stroke="currentColor" fill="none" d="M9 18h2" />
+  <path stroke="currentColor" fill="none" d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M20.2 20.2l1.8 1.8" />
+
+</symbol>
+<symbol id="device-ipad-share" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 21h-6a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v8" />
+  <path stroke="currentColor" fill="none" d="M9 18h3.5" />
+  <path stroke="currentColor" fill="none" d="M16 22l5 -5" />
+  <path stroke="currentColor" fill="none" d="M21 21.5v-4.5h-4.5" />
+
+</symbol>
+<symbol id="device-ipad-star" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 21h-5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v5.5" />
+  <path stroke="currentColor" fill="none" d="M9 18h1" />
+  <path stroke="currentColor" fill="none" d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z" />
+
+</symbol>
+<symbol id="device-ipad-up" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9 18h3" />
+  <path stroke="currentColor" fill="none" d="M19 22v-6" />
+  <path stroke="currentColor" fill="none" d="M22 19l-3 -3l-3 3" />
+  <path stroke="currentColor" fill="none" d="M13.5 21h-6.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v7" />
+
+</symbol>
+<symbol id="device-ipad-x" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M22 22l-5 -5" />
+  <path stroke="currentColor" fill="none" d="M17 22l5 -5" />
+  <path stroke="currentColor" fill="none" d="M13 21h-7a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v9" />
+  <path stroke="currentColor" fill="none" d="M9 18h4" />
+
+</symbol>
+<symbol id="device-ipad" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18 3a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2z" />
+  <path stroke="currentColor" fill="none" d="M9 18h6" />
+
+</symbol>
+<symbol id="device-landline-phone" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 3h-2a2 2 0 0 0 -2 2v14a2 2 0 0 0 2 2h2a2 2 0 0 0 2 -2v-14a2 2 0 0 0 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M16 4h-11a3 3 0 0 0 -3 3v10a3 3 0 0 0 3 3h11" />
+  <path stroke="currentColor" fill="none" d="M12 8h-6v3h6z" />
+  <path stroke="currentColor" fill="none" d="M12 14v.01" />
+  <path stroke="currentColor" fill="none" d="M9 14v.01" />
+  <path stroke="currentColor" fill="none" d="M6 14v.01" />
+  <path stroke="currentColor" fill="none" d="M12 17v.01" />
+  <path stroke="currentColor" fill="none" d="M9 17v.01" />
+  <path stroke="currentColor" fill="none" d="M6 17v.01" />
+
+</symbol>
+<symbol id="device-laptop-off" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 19h16" />
+  <path stroke="currentColor" fill="none" d="M10 6h8a1 1 0 0 1 1 1v8m-3 1h-10a1 1 0 0 1 -1 -1v-8a1 1 0 0 1 1 -1" />
+  <path stroke="currentColor" fill="none" d="M3 3l18 18" />
+
+</symbol>
+<symbol id="device-laptop" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 19l18 0" />
+  <path stroke="currentColor" fill="none" d="M5 6m0 1a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1z" />
+
+</symbol>
+<symbol id="device-mobile-bolt" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13.5 21h-5.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M19 16l-2 3h4l-2 3" />
+  <path stroke="currentColor" fill="none" d="M11 4h2" />
+  <path stroke="currentColor" fill="none" d="M12 17v.01" />
+
+</symbol>
+<symbol id="device-mobile-cancel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 21h-4a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v7" />
+  <path stroke="currentColor" fill="none" d="M19 19m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M17 21l4 -4" />
+  <path stroke="currentColor" fill="none" d="M11 4h2" />
+  <path stroke="currentColor" fill="none" d="M12 17v.01" />
+
+</symbol>
+<symbol id="device-mobile-charging" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 3m0 2a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M11 4h2" />
+  <path stroke="currentColor" fill="none" d="M12 9.5l-1 2.5h2l-1 2.5" />
+
+</symbol>
+<symbol id="device-mobile-check" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.5 21h-3.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v9.5" />
+  <path stroke="currentColor" fill="none" d="M11 4h2" />
+  <path stroke="currentColor" fill="none" d="M12 17v.01" />
+  <path stroke="currentColor" fill="none" d="M15 19l2 2l4 -4" />
+
+</symbol>
+</svg>

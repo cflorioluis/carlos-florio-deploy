@@ -1,0 +1,740 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="brand-days-counter" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20.779 10.007a9 9 0 1 0 -10.77 10.772" />
+  <path stroke="currentColor" fill="none" d="M13 21h8v-7" />
+  <path stroke="currentColor" fill="none" d="M12 8v4l3 3" />
+
+</symbol>
+<symbol id="brand-dcos" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 18l18 -12h-18l9 14l9 -14v10l-18 -10z" />
+
+</symbol>
+<symbol id="brand-debian" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 17c-2.397 -.943 -4 -3.153 -4 -5.635c0 -2.19 1.039 -3.14 1.604 -3.595c2.646 -2.133 6.396 -.27 6.396 3.23c0 2.5 -2.905 2.121 -3.5 1.5c-.595 -.621 -1 -1.5 -.5 -2.5" />
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+
+</symbol>
+<symbol id="brand-deezer" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 16.5h2v.5h-2z" />
+  <path stroke="currentColor" fill="none" d="M8 16.5h2.5v.5h-2.5z" />
+  <path stroke="currentColor" fill="none" d="M16 17h-2.5v-.5h2.5z" />
+  <path stroke="currentColor" fill="none" d="M21.5 17h-2.5v-.5h2.5z" />
+  <path stroke="currentColor" fill="none" d="M21.5 13h-2.5v.5h2.5z" />
+  <path stroke="currentColor" fill="none" d="M21.5 9.5h-2.5v.5h2.5z" />
+  <path stroke="currentColor" fill="none" d="M21.5 6h-2.5v.5h2.5z" />
+  <path stroke="currentColor" fill="none" d="M16 13h-2.5v.5h2.5z" />
+  <path stroke="currentColor" fill="none" d="M8 13.5h2.5v-.5h-2.5z" />
+  <path stroke="currentColor" fill="none" d="M8 9.5h2.5v.5h-2.5z" />
+
+</symbol>
+<symbol id="brand-deliveroo" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 11l1 -9l5 .5l-1 13.5l-3 6l-12.5 -2.5l-1.5 -6l7 -1.5l-1.5 -7.5l4.5 -1z" />
+  <circle cx="15.5" cy="15.5" r="1" fill="currentColor" />
+  <circle cx="11.5" cy="14.5" r="1" fill="currentColor" />
+
+</symbol>
+<symbol id="brand-deno" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M13.47 20.882l-1.47 -5.882c-2.649 -.088 -5 -1.624 -5 -3.5c0 -1.933 2.239 -3.5 5 -3.5s4 1 5 3c.024 .048 .69 2.215 2 6.5" />
+  <path stroke="currentColor" fill="none" d="M12 11h.01" />
+
+</symbol>
+<symbol id="brand-denodo" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 11h2v2h-2z" />
+  <path stroke="currentColor" fill="none" d="M3.634 15.634l1.732 -1l1 1.732l-1.732 1z" />
+  <path stroke="currentColor" fill="none" d="M11 19h2v2h-2z" />
+  <path stroke="currentColor" fill="none" d="M18.634 14.634l1.732 1l-1 1.732l-1.732 -1z" />
+  <path stroke="currentColor" fill="none" d="M17.634 7.634l1.732 -1l1 1.732l-1.732 1z" />
+  <path stroke="currentColor" fill="none" d="M11 3h2v2h-2z" />
+  <path stroke="currentColor" fill="none" d="M3.634 8.366l1 -1.732l1.732 1l-1 1.732z" />
+
+</symbol>
+<symbol id="brand-deviantart" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18 3v4l-3.857 6h3.857v4h-6.429l-2.571 4h-3v-4l3.857 -6h-3.857v-4h6.429l2.571 -4z" />
+
+</symbol>
+<symbol id="brand-digg" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 15h-3v-4h3" />
+  <path stroke="currentColor" fill="none" d="M15 15h-3v-4h3" />
+  <path stroke="currentColor" fill="none" d="M9 15v-4" />
+  <path stroke="currentColor" fill="none" d="M15 11v7h-3" />
+  <path stroke="currentColor" fill="none" d="M6 7v8" />
+  <path stroke="currentColor" fill="none" d="M21 15h-3v-4h3" />
+  <path stroke="currentColor" fill="none" d="M21 11v7h-3" />
+
+</symbol>
+<symbol id="brand-dingtalk" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 12a9 9 0 1 1 -18 0a9 9 0 0 1 18 0z" />
+  <path stroke="currentColor" fill="none" d="M8 7.5l7.02 2.632a1 1 0 0 1 .567 1.33l-1.087 2.538h1.5l-5 4l1 -4c-3.1 .03 -3.114 -3.139 -4 -6.5z" />
+
+</symbol>
+<symbol id="brand-discord" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M14 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M15.5 17c0 1 1.5 3 2 3c1.5 0 2.833 -1.667 3.5 -3c.667 -1.667 .5 -5.833 -1.5 -11.5c-1.457 -1.015 -3 -1.34 -4.5 -1.5l-.972 1.923a11.913 11.913 0 0 0 -4.053 0l-.975 -1.923c-1.5 .16 -3.043 .485 -4.5 1.5c-2 5.667 -2.167 9.833 -1.5 11.5c.667 1.333 2 3 3.5 3c.5 0 2 -2 2 -3" />
+  <path stroke="currentColor" fill="none" d="M7 16.5c3.5 1 6.5 1 10 0" />
+
+</symbol>
+<symbol id="brand-disney" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3.22 5.838c-1.307 -.15 -1.22 -.578 -1.22 -.794c0 -.216 .424 -1.044 4.34 -1.044c4.694 0 14.66 3.645 14.66 10.042s-8.71 4.931 -10.435 4.52c-1.724 -.412 -5.565 -2.256 -5.565 -4.174c0 -1.395 3.08 -2.388 6.715 -2.388c3.634 0 5.285 1.041 5.285 2c0 .5 -.074 1.229 -1 1.5" />
+  <path stroke="currentColor" fill="none" d="M10.02 8a505.153 505.153 0 0 0 0 13" />
+
+</symbol>
+<symbol id="brand-disqus" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11.847 21c-2.259 0 -4.323 -.667 -5.919 -2h-3.928l1.708 -3.266c-.545 -1.174 -.759 -2.446 -.758 -3.734c0 -4.97 3.84 -9 8.898 -9c5.052 0 9.152 4.03 9.152 9c0 4.972 -4.098 9 -9.153 9z" />
+  <path stroke="currentColor" fill="none" d="M11.485 15h-1.485v-6h1.485c2.112 0 3.515 .823 3.515 2.981v.035c0 2.18 -1.403 2.984 -3.515 2.984z" />
+
+</symbol>
+<symbol id="brand-django" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 3m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z" />
+  <path stroke="currentColor" fill="none" d="M12 7v8.5l-2.015 .201a2.715 2.715 0 1 1 0 -5.402l2.015 .201" />
+  <path stroke="currentColor" fill="none" d="M16 7v.01" />
+  <path stroke="currentColor" fill="none" d="M16 10v5.586c0 .905 -.36 1.774 -1 2.414" />
+
+</symbol>
+<symbol id="brand-docker" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M22 12.54c-1.804 -.345 -2.701 -1.08 -3.523 -2.94c-.487 .696 -1.102 1.568 -.92 2.4c.028 .238 -.32 1 -.557 1h-14c0 5.208 3.164 7 6.196 7c4.124 .022 7.828 -1.376 9.854 -5c1.146 -.101 2.296 -1.505 2.95 -2.46z" />
+  <path stroke="currentColor" fill="none" d="M5 10h3v3h-3z" />
+  <path stroke="currentColor" fill="none" d="M8 10h3v3h-3z" />
+  <path stroke="currentColor" fill="none" d="M11 10h3v3h-3z" />
+  <path stroke="currentColor" fill="none" d="M8 7h3v3h-3z" />
+  <path stroke="currentColor" fill="none" d="M11 7h3v3h-3z" />
+  <path stroke="currentColor" fill="none" d="M11 4h3v3h-3z" />
+  <path stroke="currentColor" fill="none" d="M4.571 18c1.5 0 2.047 -.074 2.958 -.78" />
+  <path stroke="currentColor" fill="none" d="M10 16l0 .01" />
+
+</symbol>
+<symbol id="brand-doctrine" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 14m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+  <path stroke="currentColor" fill="none" d="M9 14h6" />
+  <path stroke="currentColor" fill="none" d="M12 11l3 3l-3 3" />
+  <path stroke="currentColor" fill="none" d="M10 3l6.9 6" />
+
+</symbol>
+<symbol id="brand-dolby-digital" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 6v12h-.89c-3.34 0 -6.047 -2.686 -6.047 -6s2.707 -6 6.046 -6h.891z" />
+  <path stroke="currentColor" fill="none" d="M3.063 6v12h.891c3.34 0 6.046 -2.686 6.046 -6s-2.707 -6 -6.046 -6h-.89z" />
+
+</symbol>
+<symbol id="brand-douban" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 20h16" />
+  <path stroke="currentColor" fill="none" d="M5 4h14" />
+  <path stroke="currentColor" fill="none" d="M8 8h8a2 2 0 0 1 2 2v2a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-2a2 2 0 0 1 2 -2z" />
+  <path stroke="currentColor" fill="none" d="M16 14l-2 6" />
+  <path stroke="currentColor" fill="none" d="M8 17l1 3" />
+
+</symbol>
+<symbol id="brand-dribbble" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M9 3.6c5 6 7 10.5 7.5 16.2" />
+  <path stroke="currentColor" fill="none" d="M6.4 19c3.5 -3.5 6 -6.5 14.5 -6.4" />
+  <path stroke="currentColor" fill="none" d="M3.1 10.75c5 0 9.814 -.38 15.314 -5" />
+
+</symbol>
+<symbol id="brand-drops" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M17.637 7.416a7.907 7.907 0 0 1 1.76 8.666a8 8 0 0 1 -7.397 4.918a8 8 0 0 1 -7.396 -4.918a7.907 7.907 0 0 1 1.759 -8.666l5.637 -5.416l5.637 5.416z" />
+  <path stroke="currentColor" fill="none" d="M14.466 10.923a3.595 3.595 0 0 1 .77 3.877a3.5 3.5 0 0 1 -3.236 2.2a3.5 3.5 0 0 1 -3.236 -2.2a3.595 3.595 0 0 1 .77 -3.877l2.466 -2.423l2.466 2.423z" />
+
+</symbol>
+<symbol id="brand-drupal" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 2c0 4.308 -7 6 -7 12a7 7 0 0 0 14 0c0 -6 -7 -7.697 -7 -12z" />
+  <path stroke="currentColor" fill="none" d="M12 11.33a65.753 65.753 0 0 1 -2.012 2.023c-1 .957 -1.988 1.967 -1.988 3.647c0 2.17 1.79 4 4 4s4 -1.827 4 -4c0 -1.676 -.989 -2.685 -1.983 -3.642c-.42 -.404 -2.259 -2.357 -5.517 -5.858l3.5 3.83z" />
+
+</symbol>
+<symbol id="brand-edge" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20.978 11.372a9 9 0 1 0 -1.593 5.773" />
+  <path stroke="currentColor" fill="none" d="M20.978 11.372c.21 2.993 -5.034 2.413 -6.913 1.486c1.392 -1.6 .402 -4.038 -2.274 -3.851c-1.745 .122 -2.927 1.157 -2.784 3.202c.28 3.99 4.444 6.205 10.36 4.79" />
+  <path stroke="currentColor" fill="none" d="M3.022 12.628c-.283 -4.043 8.717 -7.228 11.248 -2.688" />
+  <path stroke="currentColor" fill="none" d="M12.628 20.978c-2.993 .21 -5.162 -4.725 -3.567 -9.748" />
+
+</symbol>
+<symbol id="brand-elastic" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14 2a5 5 0 0 1 5 5c0 .712 -.232 1.387 -.5 2c1.894 .042 3.5 1.595 3.5 3.5c0 1.869 -1.656 3.4 -3.5 3.5c.333 .625 .5 1.125 .5 1.5a2.5 2.5 0 0 1 -2.5 2.5c-.787 0 -1.542 -.432 -2 -1c-.786 1.73 -2.476 3 -4.5 3a5 5 0 0 1 -4.583 -7a3.5 3.5 0 0 1 -.11 -6.992l.195 0a2.5 2.5 0 0 1 2 -4c.787 0 1.542 .432 2 1c.786 -1.73 2.476 -3 4.5 -3z" />
+  <path stroke="currentColor" fill="none" d="M8.5 9l-3 -1" />
+  <path stroke="currentColor" fill="none" d="M9.5 5l-1 4l1 2l5 2l4 -4" />
+  <path stroke="currentColor" fill="none" d="M18.499 16l-3 -.5l-1 -2.5" />
+  <path stroke="currentColor" fill="none" d="M14.5 19l1 -3.5" />
+  <path stroke="currentColor" fill="none" d="M5.417 15l4.083 -4" />
+
+</symbol>
+<symbol id="brand-electronic-arts" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M17.5 15l-3 -6l-3 6h-5l1.5 -3" />
+  <path stroke="currentColor" fill="none" d="M17 14h-2" />
+  <path stroke="currentColor" fill="none" d="M6.5 12h3.5" />
+  <path stroke="currentColor" fill="none" d="M8 9h3" />
+
+</symbol>
+<symbol id="brand-ember" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 12.958c8.466 1.647 11.112 -1.196 12.17 -2.294c2.116 -2.196 0 -6.589 -2.646 -5.49c-2.644 1.096 -6.35 7.686 -3.174 12.078c2.116 2.928 6 2.178 11.65 -2.252" />
+
+</symbol>
+<symbol id="brand-envato" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4.711 17.875c-.534 -1.339 -1.35 -4.178 .129 -6.47c1.415 -2.193 3.769 -3.608 5.099 -4.278l-5.229 10.748z" />
+  <path stroke="currentColor" fill="none" d="M19.715 12.508c-.54 3.409 -2.094 6.156 -4.155 7.348c-4.069 2.353 -8.144 .45 -9.297 -.188c.877 -1.436 4.433 -7.22 6.882 -10.591c2.714 -3.737 5.864 -5.978 6.565 -6.077c0 .201 .03 .55 .071 1.03c.144 1.709 .443 5.264 -.066 8.478z" />
+
+</symbol>
+<symbol id="brand-etsy" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14 12h-5" />
+  <path stroke="currentColor" fill="none" d="M3 3m0 5a5 5 0 0 1 5 -5h8a5 5 0 0 1 5 5v8a5 5 0 0 1 -5 5h-8a5 5 0 0 1 -5 -5z" />
+  <path stroke="currentColor" fill="none" d="M15 16h-5a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1h5" />
+
+</symbol>
+<symbol id="brand-evernote" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 8h5v-5" />
+  <path stroke="currentColor" fill="none" d="M17.9 19c.6 -2.5 1.1 -5.471 1.1 -9c0 -4.5 -2 -5 -3 -5c-1.906 0 -3 -.5 -3.5 -1c-.354 -.354 -.5 -1 -1.5 -1h-2l-5 5c0 6 2.5 8 5 8c1 0 1.5 -.5 2 -1.5s1.414 -.326 2.5 0c1.044 .313 2.01 .255 2.5 .5c1 .5 2 1.5 2 3c0 .5 0 3 -3 3s-3 -3 -1 -3" />
+  <path stroke="currentColor" fill="none" d="M15 10h1" />
+
+</symbol>
+<symbol id="brand-facebook" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
+
+</symbol>
+<symbol id="brand-feedly" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7.833 12.278l4.445 -4.445" />
+  <path stroke="currentColor" fill="none" d="M10.055 14.5l2.223 -2.222" />
+  <path stroke="currentColor" fill="none" d="M12.278 16.722l.555 -.555" />
+  <path stroke="currentColor" fill="none" d="M19.828 14.828a4 4 0 0 0 0 -5.656l-5 -5a4 4 0 0 0 -5.656 0l-5 5a4 4 0 0 0 0 5.656l6.171 6.172h3.314l6.171 -6.172z" />
+
+</symbol>
+<symbol id="brand-figma" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M6 3m0 3a3 3 0 0 1 3 -3h6a3 3 0 0 1 3 3v0a3 3 0 0 1 -3 3h-6a3 3 0 0 1 -3 -3z" />
+  <path stroke="currentColor" fill="none" d="M9 9a3 3 0 0 0 0 6h3m-3 0a3 3 0 1 0 3 3v-15" />
+
+</symbol>
+<symbol id="brand-filezilla" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M16 15.824a4.062 4.062 0 0 1 -2.25 .033c-.738 -.201 -2.018 -.08 -2.75 .143l4.583 -5h-6.583" />
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M8 15l2 -8h5" />
+
+</symbol>
+<symbol id="brand-finder" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 4m0 1a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1z" />
+  <path stroke="currentColor" fill="none" d="M7 8v1" />
+  <path stroke="currentColor" fill="none" d="M17 8v1" />
+  <path stroke="currentColor" fill="none" d="M12.5 4c-.654 1.486 -1.26 3.443 -1.5 9h2.5c-.19 2.867 .094 5.024 .5 7" />
+  <path stroke="currentColor" fill="none" d="M7 15.5c3.667 2 6.333 2 10 0" />
+
+</symbol>
+<symbol id="brand-firebase" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4.53 17.05l6.15 -11.72h-.02c.38 -.74 1.28 -1.02 2.01 -.63c.26 .14 .48 .36 .62 .62l1.06 2.01" />
+  <path stroke="currentColor" fill="none" d="M15.47 6.45c.58 -.59 1.53 -.59 2.11 -.01c.22 .22 .36 .5 .41 .81l1.5 9.11c.1 .62 -.2 1.24 -.76 1.54l-6.07 2.9c-.46 .25 -1.01 .26 -1.46 0l-6.02 -2.92c-.55 -.31 -.85 -.92 -.75 -1.54l1.96 -12.04c.12 -.82 .89 -1.38 1.7 -1.25c.46 .07 .87 .36 1.09 .77l1.24 1.76" />
+  <path stroke="currentColor" fill="none" d="M4.57 17.18l10.93 -10.68" />
+
+</symbol>
+<symbol id="brand-firefox" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4.028 7.82a9 9 0 1 0 12.823 -3.4c-1.636 -1.02 -3.064 -1.02 -4.851 -1.02h-1.647" />
+  <path stroke="currentColor" fill="none" d="M4.914 9.485c-1.756 -1.569 -.805 -5.38 .109 -6.17c.086 .896 .585 1.208 1.111 1.685c.88 -.275 1.313 -.282 1.867 0c.82 -.91 1.694 -2.354 2.628 -2.093c-1.082 1.741 -.07 3.733 1.371 4.173c-.17 .975 -1.484 1.913 -2.76 2.686c-1.296 .938 -.722 1.85 0 2.234c.949 .506 3.611 -1 4.545 .354c-1.698 .102 -1.536 3.107 -3.983 2.727c2.523 .957 4.345 .462 5.458 -.34c1.965 -1.52 2.879 -3.542 2.879 -5.557c-.014 -1.398 .194 -2.695 -1.26 -4.75" />
+
+</symbol>
+<symbol id="brand-fiverr" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15 3h-2a6 6 0 0 0 -6 6h-3v4h3v8h4v-7h4v7h4v-11h-8v-1.033a1.967 1.967 0 0 1 2 -1.967h2v-4z" />
+
+</symbol>
+<symbol id="brand-flickr" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M17 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+
+</symbol>
+<symbol id="brand-flightradar24" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M12 12m-5 0a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+  <path stroke="currentColor" fill="none" d="M8.5 20l3.5 -8l-6.5 6" />
+  <path stroke="currentColor" fill="none" d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+
+</symbol>
+<symbol id="brand-flipboard" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3.973 3h16.054c.537 0 .973 .436 .973 .973v4.052a.973 .973 0 0 1 -.973 .973h-5.025v4.831c0 .648 -.525 1.173 -1.173 1.173h-4.829v5.025a.973 .973 0 0 1 -.974 .973h-4.053a.973 .973 0 0 1 -.973 -.973v-16.054c0 -.537 .436 -.973 .973 -.973z" />
+
+</symbol>
+<symbol id="brand-flutter" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 14l-3 -3l8 -8h6z" />
+  <path stroke="currentColor" fill="none" d="M14 21l-5 -5l5 -5h5l-5 5l5 5z" />
+
+</symbol>
+<symbol id="brand-fortnite" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 3h7.5l-.5 4h-3v3h3v3.5h-3v6.5l-4 1z" />
+
+</symbol>
+<symbol id="brand-foursquare" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7 3h10c.644 0 1.11 .696 .978 1.33l-1.984 9.859a1.014 1.014 0 0 1 -1 .811h-2.254c-.308 0 -.6 .141 -.793 .382l-4.144 5.25c-.599 .752 -1.809 .331 -1.809 -.632v-16c0 -.564 .44 -1 1 -1z" />
+  <path stroke="currentColor" fill="none" d="M12 9l5 0" />
+
+</symbol>
+<symbol id="brand-framer-motion" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12l-8 -8v16l16 -16v16l-4 -4" />
+  <path stroke="currentColor" fill="none" d="M20 12l-8 8l-4 -4" />
+
+</symbol>
+<symbol id="brand-framer" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6 15h12l-12 -12h12v6h-12v6l6 6v-6" />
+
+</symbol>
+<symbol id="brand-funimation" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M8 13h8a4 4 0 1 1 -8 0z" />
+
+</symbol>
+<symbol id="brand-gatsby" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3.296 14.297l6.407 6.407a9.018 9.018 0 0 1 -6.325 -6.116l-.082 -.291z" />
+  <path stroke="currentColor" fill="none" d="M16 13h5c-.41 3.603 -3.007 6.59 -6.386 7.614l-11.228 -11.229a9 9 0 0 1 15.66 -2.985" />
+
+</symbol>
+<symbol id="brand-git" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M16 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M12 8m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M12 16m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M12 15v-6" />
+  <path stroke="currentColor" fill="none" d="M15 11l-2 -2" />
+  <path stroke="currentColor" fill="none" d="M11 7l-1.9 -1.9" />
+  <path stroke="currentColor" fill="none" d="M13.446 2.6l7.955 7.954a2.045 2.045 0 0 1 0 2.892l-7.955 7.955a2.045 2.045 0 0 1 -2.892 0l-7.955 -7.955a2.045 2.045 0 0 1 0 -2.892l7.955 -7.955a2.045 2.045 0 0 1 2.892 0z" />
+
+</symbol>
+<symbol id="brand-github-copilot" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 18v-5.5c0 -.667 .167 -1.333 .5 -2" />
+  <path stroke="currentColor" fill="none" d="M12 7.5c0 -1 -.01 -4.07 -4 -3.5c-3.5 .5 -4 2.5 -4 3.5c0 1.5 0 4 3 4c4 0 5 -2.5 5 -4z" />
+  <path stroke="currentColor" fill="none" d="M4 12c-1.333 .667 -2 1.333 -2 2c0 1 0 3 1.5 4c3 2 6.5 3 8.5 3s5.499 -1 8.5 -3c1.5 -1 1.5 -3 1.5 -4c0 -.667 -.667 -1.333 -2 -2" />
+  <path stroke="currentColor" fill="none" d="M20 18v-5.5c0 -.667 -.167 -1.333 -.5 -2" />
+  <path stroke="currentColor" fill="none" d="M12 7.5l0 -.297l.01 -.269l.027 -.298l.013 -.105l.033 -.215c.014 -.073 .029 -.146 .046 -.22l.06 -.223c.336 -1.118 1.262 -2.237 3.808 -1.873c2.838 .405 3.703 1.797 3.93 2.842l.036 .204c0 .033 .01 .066 .013 .098l.016 .185l0 .171l0 .49l-.015 .394l-.02 .271c-.122 1.366 -.655 2.845 -2.962 2.845c-3.256 0 -4.524 -1.656 -4.883 -3.081l-.053 -.242a3.865 3.865 0 0 1 -.036 -.235l-.021 -.227a3.518 3.518 0 0 1 -.007 -.215z" />
+  <path stroke="currentColor" fill="none" d="M10 15v2" />
+  <path stroke="currentColor" fill="none" d="M14 15v2" />
+
+</symbol>
+<symbol id="brand-github" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+
+</symbol>
+<symbol id="brand-gitlab" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 14l-9 7l-9 -7l3 -11l3 7h6l3 -7z" />
+
+</symbol>
+<symbol id="brand-gmail" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M16 20h3a1 1 0 0 0 1 -1v-14a1 1 0 0 0 -1 -1h-3v16z" />
+  <path stroke="currentColor" fill="none" d="M5 20h3v-16h-3a1 1 0 0 0 -1 1v14a1 1 0 0 0 1 1z" />
+  <path stroke="currentColor" fill="none" d="M16 4l-4 4l-4 -4" />
+  <path stroke="currentColor" fill="none" d="M4 6.5l8 7.5l8 -7.5" />
+
+</symbol>
+<symbol id="brand-golang" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M15.695 14.305c1.061 1.06 2.953 .888 4.226 -.384c1.272 -1.273 1.444 -3.165 .384 -4.226c-1.061 -1.06 -2.953 -.888 -4.226 .384c-1.272 1.273 -1.444 3.165 -.384 4.226z" />
+  <path stroke="currentColor" fill="none" d="M12.68 9.233c-1.084 -.497 -2.545 -.191 -3.591 .846c-1.284 1.273 -1.457 3.165 -.388 4.226c1.07 1.06 2.978 .888 4.261 -.384a3.669 3.669 0 0 0 1.038 -1.921h-2.427" />
+  <path stroke="currentColor" fill="none" d="M5.5 15h-1.5" />
+  <path stroke="currentColor" fill="none" d="M6 9h-2" />
+  <path stroke="currentColor" fill="none" d="M5 12h-3" />
+
+</symbol>
+<symbol id="brand-google-analytics" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 9m0 1.105a1.105 1.105 0 0 1 1.105 -1.105h1.79a1.105 1.105 0 0 1 1.105 1.105v9.79a1.105 1.105 0 0 1 -1.105 1.105h-1.79a1.105 1.105 0 0 1 -1.105 -1.105z" />
+  <path stroke="currentColor" fill="none" d="M17 3m0 1.105a1.105 1.105 0 0 1 1.105 -1.105h1.79a1.105 1.105 0 0 1 1.105 1.105v15.79a1.105 1.105 0 0 1 -1.105 1.105h-1.79a1.105 1.105 0 0 1 -1.105 -1.105z" />
+  <path stroke="currentColor" fill="none" d="M5 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+
+</symbol>
+<symbol id="brand-google-big-query" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M17.73 19.875a2.225 2.225 0 0 1 -1.948 1.125h-7.283a2.222 2.222 0 0 1 -1.947 -1.158l-4.272 -6.75a2.269 2.269 0 0 1 0 -2.184l4.272 -6.75a2.225 2.225 0 0 1 1.946 -1.158h7.285c.809 0 1.554 .443 1.947 1.158l3.98 6.75a2.33 2.33 0 0 1 0 2.25l-3.98 6.75v-.033z" />
+  <path stroke="currentColor" fill="none" d="M11.5 11.5m-3.5 0a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0 -7 0" />
+  <path stroke="currentColor" fill="none" d="M14 14l2 2" />
+
+</symbol>
+<symbol id="brand-google-drive" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 10l-6 10l-3 -5l6 -10z" />
+  <path stroke="currentColor" fill="none" d="M9 15h12l-3 5h-12" />
+  <path stroke="currentColor" fill="none" d="M15 15l-6 -10h6l6 10z" />
+
+</symbol>
+<symbol id="brand-google-fit" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 8.866l-2.733 -2.734a3.866 3.866 0 0 0 -5.467 5.467l2.733 2.734l5.467 5.467l8.202 -8.201a3.866 3.866 0 0 0 -5.469 -5.466l-8.201 8.2" />
+
+</symbol>
+<symbol id="brand-google-home" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M19.072 21h-14.144a1.928 1.928 0 0 1 -1.928 -1.928v-6.857c0 -.512 .203 -1 .566 -1.365l7.07 -7.063a1.928 1.928 0 0 1 2.727 0l7.071 7.063c.363 .362 .566 .853 .566 1.365v6.857a1.928 1.928 0 0 1 -1.928 1.928z" />
+  <path stroke="currentColor" fill="none" d="M7 13v4h10v-4l-5 -5" />
+  <path stroke="currentColor" fill="none" d="M14.8 5.2l-11.8 11.8" />
+  <path stroke="currentColor" fill="none" d="M7 17v4" />
+  <path stroke="currentColor" fill="none" d="M17 17v4" />
+
+</symbol>
+<symbol id="brand-google-maps" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 9.5m-2.5 0a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0" />
+  <path stroke="currentColor" fill="none" d="M6.428 12.494l7.314 -9.252" />
+  <path stroke="currentColor" fill="none" d="M10.002 7.935l-2.937 -2.545" />
+  <path stroke="currentColor" fill="none" d="M17.693 6.593l-8.336 9.979" />
+  <path stroke="currentColor" fill="none" d="M17.591 6.376c.472 .907 .715 1.914 .709 2.935a7.263 7.263 0 0 1 -.72 3.18a19.085 19.085 0 0 1 -2.089 3c-.784 .933 -1.49 1.93 -2.11 2.98c-.314 .62 -.568 1.27 -.757 1.938c-.121 .36 -.277 .591 -.622 .591c-.315 0 -.463 -.136 -.626 -.593a10.595 10.595 0 0 0 -.779 -1.978a18.18 18.18 0 0 0 -1.423 -2.091c-.877 -1.184 -2.179 -2.535 -2.853 -4.071a7.077 7.077 0 0 1 -.621 -2.967a6.226 6.226 0 0 1 1.476 -4.055a6.25 6.25 0 0 1 4.811 -2.245a6.462 6.462 0 0 1 1.918 .284a6.255 6.255 0 0 1 3.686 3.092z" />
+
+</symbol>
+<symbol id="brand-google-one" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 5v13.982a2 2 0 0 0 4 0v-13.982a2 2 0 1 0 -4 0z" />
+  <path stroke="currentColor" fill="none" d="M6.63 8.407a2.125 2.125 0 0 0 -.074 2.944c.77 .834 2.051 .869 2.862 .077l4.95 -4.834c.812 -.792 .846 -2.11 .076 -2.945a1.984 1.984 0 0 0 -2.861 -.077l-4.953 4.835z" />
+
+</symbol>
+<symbol id="brand-google-photos" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M7.5 7c2.485 0 4.5 1.974 4.5 4.409v.591h-8.397a.61 .61 0 0 1 -.426 -.173a.585 .585 0 0 1 -.177 -.418c0 -2.435 2.015 -4.409 4.5 -4.409z" />
+  <path stroke="currentColor" fill="none" d="M16.5 17c-2.485 0 -4.5 -1.974 -4.5 -4.409v-.591h8.397c.333 0 .603 .265 .603 .591c0 2.435 -2.015 4.409 -4.5 4.409z" />
+  <path stroke="currentColor" fill="none" d="M7 16.5c0 -2.485 1.972 -4.5 4.405 -4.5h.595v8.392a.61 .61 0 0 1 -.173 .431a.584 .584 0 0 1 -.422 .177c-2.433 0 -4.405 -2.015 -4.405 -4.5z" />
+  <path stroke="currentColor" fill="none" d="M17 7.5c0 2.485 -1.972 4.5 -4.405 4.5h-.595v-8.397a.61 .61 0 0 1 .175 -.428a.584 .584 0 0 1 .42 -.175c2.433 0 4.405 2.015 4.405 4.5z" />
+
+</symbol>
+<symbol id="brand-google-play" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 3.71v16.58a.7 .7 0 0 0 1.05 .606l14.622 -8.42a.55 .55 0 0 0 0 -.953l-14.622 -8.419a.7 .7 0 0 0 -1.05 .607z" />
+  <path stroke="currentColor" fill="none" d="M15 9l-10.5 11.5" />
+  <path stroke="currentColor" fill="none" d="M4.5 3.5l10.5 11.5" />
+
+</symbol>
+<symbol id="brand-google-podcasts" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 3v2" />
+  <path stroke="currentColor" fill="none" d="M12 19v2" />
+  <path stroke="currentColor" fill="none" d="M12 8v8" />
+  <path stroke="currentColor" fill="none" d="M8 17v2" />
+  <path stroke="currentColor" fill="none" d="M4 11v2" />
+  <path stroke="currentColor" fill="none" d="M20 11v2" />
+  <path stroke="currentColor" fill="none" d="M8 5v8" />
+  <path stroke="currentColor" fill="none" d="M16 7v-2" />
+  <path stroke="currentColor" fill="none" d="M16 19v-8" />
+
+</symbol>
+<symbol id="brand-google" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20.945 11a9 9 0 1 1 -3.284 -5.997l-2.655 2.392a5.5 5.5 0 1 0 2.119 6.605h-4.125v-3h7.945z" />
+
+</symbol>
+<symbol id="brand-grammarly" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M15.697 9.434a4.5 4.5 0 1 0 .217 4.788" />
+  <path stroke="currentColor" fill="none" d="M13.5 14h2.5v2.5" />
+
+</symbol>
+<symbol id="brand-graphql" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 8l8 -5l8 5v8l-8 5l-8 -5z" />
+  <path stroke="currentColor" fill="none" d="M12 4l7.5 12h-15z" />
+  <path stroke="currentColor" fill="none" d="M11 3a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M11 21a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M3 8a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M3 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M19 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M19 8a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+
+</symbol>
+<symbol id="brand-gravatar" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5.64 5.632a9 9 0 1 0 6.36 -2.632v7.714" />
+
+</symbol>
+<symbol id="brand-grindr" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M13 13.282c0 .492 .784 1.718 2.102 1.718c1.318 0 2.898 -.966 2.898 -2.062c0 -.817 -.932 -.938 -1.409 -.938c-.228 0 -3.591 .111 -3.591 1.282z" />
+  <path stroke="currentColor" fill="none" d="M12 21c-2.984 0 -6.471 -2.721 -6.63 -2.982c-2.13 -3.49 -2.37 -13.703 -2.37 -13.703l1.446 -1.315c2.499 .39 5.023 .617 7.554 .68a58.626 58.626 0 0 0 7.554 -.68l1.446 1.315s-.24 10.213 -2.37 13.704c-.16 .26 -3.646 2.981 -6.63 2.981z" />
+  <path stroke="currentColor" fill="none" d="M11 13.282c0 .492 -.784 1.718 -2.102 1.718c-1.318 0 -2.898 -.966 -2.898 -2.062c0 -.817 .932 -.938 1.409 -.938c.228 0 3.591 .111 3.591 1.282z" />
+
+</symbol>
+<symbol id="brand-guardian" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14 13h6" />
+  <path stroke="currentColor" fill="none" d="M4 12c0 -9.296 9.5 -9 9.5 -9c-2.808 0 -4.5 4.373 -4.5 9s1.763 8.976 4.572 8.976c0 .023 -9.572 1.092 -9.572 -8.976z" />
+  <path stroke="currentColor" fill="none" d="M14.5 3c1.416 0 3.853 1.16 4.5 2v3.5" />
+  <path stroke="currentColor" fill="none" d="M15 13v8s2.77 -.37 4 -2v-6" />
+  <path stroke="currentColor" fill="none" d="M13.5 21h1.5" />
+  <path stroke="currentColor" fill="none" d="M13.5 3h1" />
+
+</symbol>
+<symbol id="brand-gumroad" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 12a9 9 0 1 1 -18 0a9 9 0 0 1 18 0z" />
+  <path stroke="currentColor" fill="none" d="M13.5 13h2.5v3" />
+  <path stroke="currentColor" fill="none" d="M15.024 9.382a4 4 0 1 0 -3.024 6.618c1.862 0 2.554 -1.278 3 -3" />
+
+</symbol>
+<symbol id="brand-hackerrank" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M19.484 5.667c-1.146 -.904 -3.35 -2.394 -6.497 -3.429c-.484 -.159 -.725 -.238 -1.04 -.238c-.314 0 -.556 .08 -1.04 .238c-3.147 1.035 -5.35 2.525 -6.496 3.43c-.402 .317 -.604 .476 -.797 .816c-.194 .341 -.233 .62 -.309 1.178a33 33 0 0 0 -.305 4.338c0 1.742 .165 3.317 .305 4.338c.076 .558 .115 .837 .309 1.178c.193 .34 .395 .5 .797 .817c1.146 .904 3.35 2.394 6.497 3.429c.483 .159 .725 .238 1.04 .238c.314 0 .555 -.08 1.04 -.238c3.146 -1.035 5.35 -2.525 6.496 -3.43c.402 -.317 .603 -.476 .797 -.816c.194 -.341 .232 -.62 .309 -1.178c.14 -1.021 .305 -2.596 .305 -4.338s-.165 -3.317 -.305 -4.338c-.077 -.558 -.115 -.837 -.309 -1.178s-.395 -.5 -.797 -.817" />
+  <path stroke="currentColor" fill="none" d="M9 8v7" />
+  <path stroke="currentColor" fill="none" d="M9 12h6" />
+  <path stroke="currentColor" fill="none" d="M16 16h-2l1 1z" />
+  <path stroke="currentColor" fill="none" d="M8 8h2l-1 -1z" />
+  <path stroke="currentColor" fill="none" d="M15 9v7" />
+
+</symbol>
+<symbol id="brand-hbo" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 16v-8" />
+  <path stroke="currentColor" fill="none" d="M6 8v8" />
+  <path stroke="currentColor" fill="none" d="M2 12h4" />
+  <path stroke="currentColor" fill="none" d="M9 16h2a2 2 0 1 0 0 -4h-2h2a2 2 0 1 0 0 -4h-2v8z" />
+  <path stroke="currentColor" fill="none" d="M19 8a4 4 0 1 1 0 8a4 4 0 0 1 0 -8z" />
+  <path stroke="currentColor" fill="none" d="M19 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+
+</symbol>
+<symbol id="brand-headlessui" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M6.744 4.325l7.82 -1.267a4.456 4.456 0 0 1 5.111 3.686l1.267 7.82a4.456 4.456 0 0 1 -3.686 5.111l-7.82 1.267a4.456 4.456 0 0 1 -5.111 -3.686l-1.267 -7.82a4.456 4.456 0 0 1 3.686 -5.111z" />
+  <path stroke="currentColor" fill="none" d="M7.252 7.704l7.897 -1.28a1 1 0 0 1 1.147 .828l.36 2.223l-9.562 3.51l-.67 -4.134a1 1 0 0 1 .828 -1.147z" />
+
+</symbol>
+<symbol id="brand-hexo" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M19.875 6.27c.7 .398 1.13 1.143 1.125 1.948v7.284c0 .809 -.443 1.555 -1.158 1.948l-6.75 4.27a2.269 2.269 0 0 1 -2.184 0l-6.75 -4.27a2.225 2.225 0 0 1 -1.158 -1.948v-7.285c0 -.809 .443 -1.554 1.158 -1.947l6.75 -3.98a2.33 2.33 0 0 1 2.25 0l6.75 3.98h-.033z" />
+  <path stroke="currentColor" fill="none" d="M9 8v8" />
+  <path stroke="currentColor" fill="none" d="M15 8v8" />
+  <path stroke="currentColor" fill="none" d="M9 12h6" />
+
+</symbol>
+<symbol id="brand-hipchat" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M17.802 17.292s.077 -.055 .2 -.149c1.843 -1.425 3 -3.49 3 -5.789c0 -4.286 -4.03 -7.764 -9 -7.764c-4.97 0 -9 3.478 -9 7.764c0 4.288 4.03 7.646 9 7.646c.424 0 1.12 -.028 2.088 -.084c1.262 .82 3.104 1.493 4.716 1.493c.499 0 .734 -.41 .414 -.828c-.486 -.596 -1.156 -1.551 -1.416 -2.29z" />
+  <path stroke="currentColor" fill="none" d="M7.5 13.5c2.5 2.5 6.5 2.5 9 0" />
+
+</symbol>
+<symbol id="brand-html5" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
+  <path stroke="currentColor" fill="none" d="M15.5 8h-7l.5 4h6l-.5 3.5l-2.5 .75l-2.5 -.75l-.1 -.5" />
+
+</symbol>
+<symbol id="brand-inertia" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12.5 8l4 4l-4 4h4.5l4 -4l-4 -4z" />
+  <path stroke="currentColor" fill="none" d="M3.5 8l4 4l-4 4h4.5l4 -4l-4 -4z" />
+
+</symbol>
+<symbol id="brand-instagram" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 8a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z" />
+  <path stroke="currentColor" fill="none" d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M16.5 7.5v.01" />
+
+</symbol>
+<symbol id="brand-intercom" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" />
+  <path stroke="currentColor" fill="none" d="M7 8v3" />
+  <path stroke="currentColor" fill="none" d="M10 7v6" />
+  <path stroke="currentColor" fill="none" d="M14 7v6" />
+  <path stroke="currentColor" fill="none" d="M17 8v3" />
+  <path stroke="currentColor" fill="none" d="M7 15c4 2.667 6 2.667 10 0" />
+
+</symbol>
+<symbol id="brand-itch" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 7v1c0 1.087 1.078 2 2 2c1.107 0 2 -.91 2 -2c0 1.09 .893 2 2 2s2 -.91 2 -2c0 1.09 .893 2 2 2s2 -.91 2 -2c0 1.09 .893 2 2 2s2 -.91 2 -2c0 1.09 .893 2 2 2c.922 0 2 -.913 2 -2v-1c-.009 -.275 -.538 -.964 -1.588 -2.068a3 3 0 0 0 -2.174 -.932h-12.476a3 3 0 0 0 -2.174 .932c-1.05 1.104 -1.58 1.793 -1.588 2.068z" />
+  <path stroke="currentColor" fill="none" d="M4 10c-.117 6.28 .154 9.765 .814 10.456c1.534 .367 4.355 .535 7.186 .536c2.83 -.001 5.652 -.169 7.186 -.536c.99 -1.037 .898 -9.559 .814 -10.456" />
+  <path stroke="currentColor" fill="none" d="M10 16l2 -2l2 2" />
+  <path stroke="currentColor" fill="none" d="M12 14v4" />
+
+</symbol>
+<symbol id="brand-javascript" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
+  <path stroke="currentColor" fill="none" d="M7.5 8h3v8l-2 -1" />
+  <path stroke="currentColor" fill="none" d="M16.5 8h-2.5a.5 .5 0 0 0 -.5 .5v3a.5 .5 0 0 0 .5 .5h1.423a.5 .5 0 0 1 .495 .57l-.418 2.93l-2 .5" />
+
+</symbol>
+<symbol id="brand-juejin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M2 12l10 7.422l10 -7.422" />
+  <path stroke="currentColor" fill="none" d="M7 9l5 4l5 -4" />
+  <path stroke="currentColor" fill="none" d="M11 6l1 .8l1 -.8l-1 -.8z" />
+
+</symbol>
+<symbol id="brand-kako-talk" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M10 8v7" />
+  <path stroke="currentColor" fill="none" d="M14 10l-2 2.5l2 2.5" />
+  <path stroke="currentColor" fill="none" d="M12 4c4.97 0 9 3.358 9 7.5c0 4.142 -4.03 7.5 -9 7.5c-.67 0 -1.323 -.061 -1.95 -.177l-3.05 2.177l.592 -2.962c-2.741 -1.284 -4.592 -3.73 -4.592 -6.538c0 -4.142 4.03 -7.5 9 -7.5z" />
+
+</symbol>
+<symbol id="brand-kbin" viewBox="0 0 24 24">
+
+  <g stroke-width="1.838">
+  <path stroke="currentColor" fill="none" d="M10.586 9.506h-2.43c-.434 -.932 -.7 -1.506 -1.596 -1.506l-2.404 .019c-.662 0 -1.353 .592 -1.103 1.487l2.216 9.436c.486 1.743 .811 2.058 1.145 2.058h.64" />
+  <path stroke="currentColor" fill="none" d="M14.275 3h5.645c.84 0 1.24 .714 1.02 1.287l-4.687 15.109c-.42 1.133 -1.159 1.603 -2.354 1.603h-7.485c.39 0 .76 -.618 1.296 -2.061l4.457 -14.49c.326 -.83 .76 -1.448 2.108 -1.448z" />
+  </g>
+
+</symbol>
+<symbol id="brand-kick" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 4h5v4h3v-2h2v-2h6v4h-2v2h-2v4h2v2h2v4h-6v-2h-2v-2h-3v4h-5z" />
+
+</symbol>
+<symbol id="brand-kickstarter" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M11 9l2.975 -4.65c.615 -.9 1.405 -1.35 2.377 -1.35c.79 0 1.474 .286 2.054 .858c.576 .574 .866 1.256 .866 2.054c0 .588 -.153 1.109 -.46 1.559l-2.812 4.029l3.465 4.912c.356 .46 .535 1 .535 1.613a2.92 2.92 0 0 1 -.843 2.098c-.561 .584 -1.242 .877 -2.04 .877c-.876 0 -1.545 -.29 -2 -.87l-4.112 -5.697v3.067c0 .876 -.313 1.69 -.611 2.175c-.543 .883 -1.35 1.325 -2.389 1.325c-.944 0 -1.753 -.327 -2.271 -.974c-.486 -.6 -.729 -1.392 -.729 -2.38v-11.371c0 -.934 .247 -1.706 .74 -2.313c.512 -.641 1.347 -.962 2.26 -.962c.868 0 1.821 .321 2.4 .962c.323 .356 .515 .714 .6 1.08c.052 .224 0 .643 0 1.26v2.698z" />
+
+</symbol>
+<symbol id="brand-kotlin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 20h-16v-16h16" />
+  <path stroke="currentColor" fill="none" d="M4 20l16 -16" />
+  <path stroke="currentColor" fill="none" d="M4 12l8 -8" />
+  <path stroke="currentColor" fill="none" d="M12 12l8 8" />
+
+</symbol>
+<symbol id="brand-laravel" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M3 17l8 5l7 -4v-8l-4 -2.5l4 -2.5l4 2.5v4l-11 6.5l-4 -2.5v-7.5l-4 -2.5z" />
+  <path stroke="currentColor" fill="none" d="M11 18v4" />
+  <path stroke="currentColor" fill="none" d="M7 15.5l7 -4" />
+  <path stroke="currentColor" fill="none" d="M14 7.5v4" />
+  <path stroke="currentColor" fill="none" d="M14 11.5l4 2.5" />
+  <path stroke="currentColor" fill="none" d="M11 13v-7.5l-4 -2.5l-4 2.5" />
+  <path stroke="currentColor" fill="none" d="M7 8l4 -2.5" />
+  <path stroke="currentColor" fill="none" d="M18 10l4 -2.5" />
+
+</symbol>
+<symbol id="brand-lastfm" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20 8c-.83 -1 -1.388 -1 -2 -1c-.612 0 -2 .271 -2 2s1.384 2.233 3 3c1.616 .767 2.125 1.812 2 3s-1 2 -3 2s-3 -1 -3.5 -2s-1.585 -4.78 -2.497 -6a5 5 0 1 0 -1 7" />
+
+</symbol>
+<symbol id="brand-leetcode" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 13h7.5" />
+  <path stroke="currentColor" fill="none" d="M9.424 7.268l4.999 -4.999" />
+  <path stroke="currentColor" fill="none" d="M16.633 16.644l-2.402 2.415a3.189 3.189 0 0 1 -4.524 0l-3.77 -3.787a3.223 3.223 0 0 1 0 -4.544l3.77 -3.787a3.189 3.189 0 0 1 4.524 0l2.302 2.313" />
+
+</symbol>
+<symbol id="brand-letterboxd" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M8 12m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M12 12m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M16 12m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+
+</symbol>
+<symbol id="brand-line" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M21 10.663c0 -4.224 -4.041 -7.663 -9 -7.663s-9 3.439 -9 7.663c0 3.783 3.201 6.958 7.527 7.56c1.053 .239 .932 .644 .696 2.133c-.039 .238 -.184 .932 .777 .512c.96 -.42 5.18 -3.201 7.073 -5.48c1.304 -1.504 1.927 -3.029 1.927 -4.715v-.01z" />
+
+</symbol>
+<symbol id="brand-linkedin" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M8 11v5" />
+  <path stroke="currentColor" fill="none" d="M8 8v.01" />
+  <path stroke="currentColor" fill="none" d="M12 16v-5" />
+  <path stroke="currentColor" fill="none" d="M16 16v-3a2 2 0 1 0 -4 0" />
+  <path stroke="currentColor" fill="none" d="M3 7a4 4 0 0 1 4 -4h10a4 4 0 0 1 4 4v10a4 4 0 0 1 -4 4h-10a4 4 0 0 1 -4 -4z" />
+
+</symbol>
+<symbol id="brand-linktree" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M4 10h16" />
+  <path stroke="currentColor" fill="none" d="M6.5 4.5l11 11" />
+  <path stroke="currentColor" fill="none" d="M6.5 15.5l11 -11" />
+  <path stroke="currentColor" fill="none" d="M12 10v-8" />
+  <path stroke="currentColor" fill="none" d="M12 15v7" />
+
+</symbol>
+<symbol id="brand-linqpad" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M5 21h3.5l2.5 -6l2.5 -1l2.5 7h4l1 -4.5l-2 -1l-7 -12l-6 -.5l1.5 4l2.5 .5l1 2.5l-7 8z" />
+
+</symbol>
+<symbol id="brand-livewire" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M20.982 18.777c-.372 .548 -.652 1.223 -1.406 1.223c-1.269 0 -1.337 -1.913 -2.607 -1.913c-1.27 0 -1.2 1.913 -2.47 1.913c-1.268 0 -1.337 -1.913 -2.607 -1.913c-1.269 0 -1.2 1.913 -2.47 1.913c-1.268 0 -1.337 -1.913 -2.607 -1.913c-1.27 0 -1.2 1.913 -2.47 1.913c-.398 0 -.679 -.189 -.915 -.448a10.414 10.414 0 0 1 -1.43 -5.29c0 -5.669 4.477 -10.262 10 -10.262c5.524 0 10 4.594 10 10.261c0 1.62 -.366 3.152 -1.018 4.516z" />
+  <path stroke="currentColor" fill="none" d="M20.982 18.777c-.372 .548 -.652 1.223 -1.406 1.223c-1.269 0 -1.337 -1.913 -2.607 -1.913c-1.27 0 -1.2 1.913 -2.47 1.913c-1.268 0 -1.337 -1.913 -2.607 -1.913c-1.269 0 -1.2 1.913 -2.47 1.913c-1.268 0 -1.337 -1.913 -2.607 -1.913c-1.27 0 -1.2 1.913 -2.47 1.913c-.398 0 -.679 -.189 -.915 -.448a10.414 10.414 0 0 1 -1.43 -5.29c0 -5.669 4.477 -10.262 10 -10.262c5.524 0 10 4.594 10 10.261c0 1.62 -.366 3.152 -1.018 4.516z" />
+  <path stroke="currentColor" fill="none" d="M11.5 16c3.167 0 4.5 -1.748 4.5 -4.231c0 -2.484 -2.014 -4.769 -4.5 -4.769c-2.485 0 -4.5 2.286 -4.5 4.769s1.333 4.231 4.5 4.231z" />
+  <path stroke="currentColor" fill="none" d="M10 11a1 1 0 1 0 0 -2a1 1 0 0 0 0 2z" />
+
+</symbol>
+<symbol id="brand-loom" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M17.464 6.518a6 6 0 1 0 -3.023 7.965" />
+  <path stroke="currentColor" fill="none" d="M17.482 17.464a6 6 0 1 0 -7.965 -3.023" />
+  <path stroke="currentColor" fill="none" d="M6.54 17.482a6 6 0 1 0 3.024 -7.965" />
+  <path stroke="currentColor" fill="none" d="M6.518 6.54a6 6 0 1 0 7.965 3.024" />
+
+</symbol>
+<symbol id="brand-mailgun" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M17 12a2 2 0 1 0 4 0a9 9 0 1 0 -2.987 6.697" />
+  <path stroke="currentColor" fill="none" d="M12 12m-5 0a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+  <path stroke="currentColor" fill="none" d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  <path stroke="currentColor" fill="none" d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+
+</symbol>
+<symbol id="brand-mantine" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path stroke="currentColor" fill="none" d="M11 16c1.22 -.912 2 -2.36 2 -4a5.01 5.01 0 0 0 -2 -4" />
+  <path stroke="currentColor" fill="none" d="M14 9h-2" />
+  <path stroke="currentColor" fill="none" d="M14 15h-2" />
+  <path stroke="currentColor" fill="none" d="M10 12h.01" />
+
+</symbol>
+<symbol id="brand-mastercard" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M14 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path stroke="currentColor" fill="none" d="M12 9.765a3 3 0 1 0 0 4.47" />
+  <path stroke="currentColor" fill="none" d="M3 5m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z" />
+
+</symbol>
+<symbol id="brand-mastodon" viewBox="0 0 24 24">
+
+  <path stroke="currentColor" fill="none" d="M18.648 15.254c-1.816 1.763 -6.648 1.626 -6.648 1.626a18.262 18.262 0 0 1 -3.288 -.256c1.127 1.985 4.12 2.81 8.982 2.475c-1.945 2.013 -13.598 5.257 -13.668 -7.636l-.026 -1.154c0 -3.036 .023 -4.115 1.352 -5.633c1.671 -1.91 6.648 -1.666 6.648 -1.666s4.977 -.243 6.648 1.667c1.329 1.518 1.352 2.597 1.352 5.633s-.456 4.074 -1.352 4.944z" />
+  <path stroke="currentColor" fill="none" d="M12 11.204v-2.926c0 -1.258 -.895 -2.278 -2 -2.278s-2 1.02 -2 2.278v4.722m4 -4.722c0 -1.258 .895 -2.278 2 -2.278s2 1.02 2 2.278v4.722" />
+
+</symbol>
+</svg>
